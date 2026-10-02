@@ -1,0 +1,122 @@
+{
+  "questionCount": 11117,
+  "sourceSHA256": "f9a0b2e785b7a1f65b3101baaca253ec311fe19e0f4c7ec0eb4a06571fe0fa35",
+  "previousQuestions": 8811,
+  "addedQuestions": 2306,
+  "chapterCounts": {
+    "0 Administration & Control of Operations Manual": 217,
+    "1 Introduction": 270,
+    "2 Human Factors and Emergencies": 142,
+    "3 Communication": 132,
+    "4 Safety and Emergency Equipment": 2217,
+    "5 Normal Procedures / Supplementary Procedures": 795,
+    "6 Non Normal Procedures": 1024,
+    "7 Post Evacuation and Survival": 385,
+    "8 Dangerous Goods": 453,
+    "9 First Aid/Illnesses/Injuries": 1629,
+    "10 Aircraft Specific": 3162,
+    "11 Security": 691
+  },
+  "sourceCounts": {
+    "PDF text layer": 9721,
+    "PDF table cell": 694,
+    "Visually reviewed PDF image": 630,
+    "PDF training matrix": 72
+  },
+  "newQuestionStyles": {
+    "abbreviation-complete-entry": 1,
+    "contextual-source-item": 966,
+    "equipment-location-list": 214,
+    "complete-source-sequence": 2,
+    "table-field-association": 490,
+    "alert-command-duty": 8,
+    "evacuation-command": 12,
+    "training-programme-set": 72,
+    "dgr-complete-provision": 35,
+    "dgr-carriage-entry": 95,
+    "dgr-row-limit": 38,
+    "imk-table-entry": 212,
+    "image-checklist-step": 104,
+    "image-checklist-limit": 57
+  },
+  "sourceImages": 805,
+  "expansions": {
+    "content": {
+      "addedQuestions": 1183,
+      "styles": {
+        "abbreviation-complete-entry": 1,
+        "contextual-source-item": 966,
+        "equipment-location-list": 214,
+        "complete-source-sequence": 2
+      },
+      "equipmentLocationItems": 209,
+      "equipmentLocationPages": 32,
+      "skipped": {},
+      "policy": "Full source items with inherited branch context, and complete numbered equipment-location lists bound by native line baselines. Table/image-only content is audited separately."
+    },
+    "native-table": {
+      "addedQuestions": 582,
+      "styles": {
+        "table-field-association": 490,
+        "alert-command-duty": 8,
+        "evacuation-command": 12,
+        "training-programme-set": 72
+      },
+      "skipped": {
+        "table-field-options": 5
+      },
+      "policy": "Native spatial table association. Merged cells are bound by their actual row-spanning rectangles. Training row questions assess all six checked/blank programme columns together."
+    },
+    "image-table": {
+      "addedQuestions": 380,
+      "dgrRows": 35,
+      "imkEquipmentRows": 34,
+      "imkMedicationRows": 31,
+      "styles": {
+        "dgr-complete-provision": 35,
+        "dgr-carriage-entry": 95,
+        "dgr-row-limit": 38,
+        "imk-table-entry": 212
+      },
+      "policy": "Every transcribed row and nonblank location/quantity/MEL entry is read against the original raster table. Blank MEL cells are not interpreted as Nil. DGR merged forbidden/on-person rows retain their merged meaning."
+    },
+    "image-rule": {
+      "addedQuestions": 161,
+      "reviewedSourceEntries": 104,
+      "styles": {
+        "image-checklist-step": 104,
+        "image-checklist-limit": 57
+      },
+      "pages": [
+        129,
+        150,
+        167,
+        168,
+        344,
+        599,
+        600,
+        601,
+        602
+      ],
+      "policy": "Manually transcribed complete image-only entries with original page images. Short numerical questions retain the complete entry and identify the exact blank."
+    }
+  },
+  "textUnitStatusCounts": {
+    "complete-source-unit-answer": 5768,
+    "fragment-answer-with-source-unit": 389,
+    "structural-list-table-or-image-context-review": 480
+  },
+  "reviewedRasterTables": {
+    "DGR": 35,
+    "IMKEquipment": 34,
+    "IMKMedication": 31,
+    "completeImageChecklistEntries": 104
+  },
+  "auditScope": "All 667 pages inventoried; every learning-content page and numbered leaf section has questions. Full source items, equipment location lists, table associations, merged cells, training tick sets and manually transcribed image-only steps have separate checks.",
+  "limitations": [
+    "Question count and section/page coverage do not prove that each separate fact has its own question, or that a learner has mastered the SOP.",
+    "Native text-unit gaps include headings, figure captions, table-layout fragments, appendix question stems and original non-English command translations. These are not fabricated into filler questions.",
+    "Images were inspected as page overviews, and image-only facts used in questions were read at original resolution. Not every image label or diagram coordinate has an individual question. The low-resolution UPK thumbnail on PDF 166 is retained in the manual; unreadable small text is not guessed.",
+    "Full original manual remains available for every section and citation. Correct image transcriptions rely on human review, not automated text-layer proof."
+  ]
+}

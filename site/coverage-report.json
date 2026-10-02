@@ -1,5 +1,5 @@
 {
-  "questionCount": 8811,
+  "questionCount": 11117,
   "sourceSHA256": "f9a0b2e785b7a1f65b3101baaca253ec311fe19e0f4c7ec0eb4a06571fe0fa35",
   "sectionCount": 798,
   "leafSectionCount": 600,
@@ -30,8 +30,8 @@
       "level": 4,
       "page": 11,
       "chapter": 0,
-      "directQuestions": 13,
-      "questionCount": 13,
+      "directQuestions": 15,
+      "questionCount": 15,
       "leaf": true
     },
     {
@@ -40,8 +40,8 @@
       "level": 4,
       "page": 13,
       "chapter": 0,
-      "directQuestions": 149,
-      "questionCount": 149,
+      "directQuestions": 150,
+      "questionCount": 150,
       "leaf": true
     },
     {
@@ -70,8 +70,8 @@
       "level": 4,
       "page": 27,
       "chapter": 1,
-      "directQuestions": 19,
-      "questionCount": 19,
+      "directQuestions": 22,
+      "questionCount": 22,
       "leaf": true
     },
     {
@@ -101,7 +101,7 @@
       "page": 35,
       "chapter": 2,
       "directQuestions": 0,
-      "questionCount": 127,
+      "questionCount": 142,
       "leaf": false
     },
     {
@@ -120,8 +120,8 @@
       "level": 5,
       "page": 35,
       "chapter": 2,
-      "directQuestions": 30,
-      "questionCount": 30,
+      "directQuestions": 34,
+      "questionCount": 34,
       "leaf": true
     },
     {
@@ -130,8 +130,8 @@
       "level": 5,
       "page": 36,
       "chapter": 2,
-      "directQuestions": 25,
-      "questionCount": 25,
+      "directQuestions": 32,
+      "questionCount": 32,
       "leaf": true
     },
     {
@@ -140,8 +140,8 @@
       "level": 5,
       "page": 36,
       "chapter": 2,
-      "directQuestions": 9,
-      "questionCount": 9,
+      "directQuestions": 10,
+      "questionCount": 10,
       "leaf": true
     },
     {
@@ -150,8 +150,8 @@
       "level": 5,
       "page": 37,
       "chapter": 2,
-      "directQuestions": 57,
-      "questionCount": 57,
+      "directQuestions": 60,
+      "questionCount": 60,
       "leaf": true
     },
     {
@@ -170,8 +170,8 @@
       "level": 4,
       "page": 45,
       "chapter": 3,
-      "directQuestions": 16,
-      "questionCount": 16,
+      "directQuestions": 21,
+      "questionCount": 21,
       "leaf": true
     },
     {
@@ -180,8 +180,8 @@
       "level": 4,
       "page": 47,
       "chapter": 3,
-      "directQuestions": 10,
-      "questionCount": 10,
+      "directQuestions": 16,
+      "questionCount": 16,
       "leaf": true
     },
     {
@@ -190,8 +190,8 @@
       "level": 4,
       "page": 49,
       "chapter": 3,
-      "directQuestions": 16,
-      "questionCount": 16,
+      "directQuestions": 25,
+      "questionCount": 25,
       "leaf": true
     },
     {
@@ -201,7 +201,7 @@
       "page": 51,
       "chapter": 3,
       "directQuestions": 3,
-      "questionCount": 37,
+      "questionCount": 50,
       "leaf": false
     },
     {
@@ -210,8 +210,8 @@
       "level": 5,
       "page": 51,
       "chapter": 3,
-      "directQuestions": 20,
-      "questionCount": 20,
+      "directQuestions": 30,
+      "questionCount": 30,
       "leaf": true
     },
     {
@@ -220,8 +220,8 @@
       "level": 5,
       "page": 52,
       "chapter": 3,
-      "directQuestions": 3,
-      "questionCount": 3,
+      "directQuestions": 4,
+      "questionCount": 4,
       "leaf": true
     },
     {
@@ -230,8 +230,8 @@
       "level": 5,
       "page": 52,
       "chapter": 3,
-      "directQuestions": 11,
-      "questionCount": 11,
+      "directQuestions": 13,
+      "questionCount": 13,
       "leaf": true
     },
     {
@@ -241,7 +241,7 @@
       "page": 53,
       "chapter": 3,
       "directQuestions": 0,
-      "questionCount": 6,
+      "questionCount": 7,
       "leaf": false
     },
     {
@@ -250,8 +250,8 @@
       "level": 5,
       "page": 53,
       "chapter": 3,
-      "directQuestions": 6,
-      "questionCount": 6,
+      "directQuestions": 7,
+      "questionCount": 7,
       "leaf": true
     },
     {
@@ -271,7 +271,7 @@
       "page": 59,
       "chapter": 4,
       "directQuestions": 0,
-      "questionCount": 303,
+      "questionCount": 335,
       "leaf": false
     },
     {
@@ -321,7 +321,7 @@
       "page": 61,
       "chapter": 4,
       "directQuestions": 3,
-      "questionCount": 137,
+      "questionCount": 146,
       "leaf": false
     },
     {
@@ -330,8 +330,8 @@
       "level": 6,
       "page": 61,
       "chapter": 4,
-      "directQuestions": 30,
-      "questionCount": 30,
+      "directQuestions": 33,
+      "questionCount": 33,
       "leaf": true
     },
     {
@@ -340,8 +340,8 @@
       "level": 6,
       "page": 63,
       "chapter": 4,
-      "directQuestions": 40,
-      "questionCount": 40,
+      "directQuestions": 41,
+      "questionCount": 41,
       "leaf": true
     },
     {
@@ -350,8 +350,8 @@
       "level": 6,
       "page": 65,
       "chapter": 4,
-      "directQuestions": 34,
-      "questionCount": 34,
+      "directQuestions": 36,
+      "questionCount": 36,
       "leaf": true
     },
     {
@@ -360,8 +360,8 @@
       "level": 6,
       "page": 66,
       "chapter": 4,
-      "directQuestions": 30,
-      "questionCount": 30,
+      "directQuestions": 33,
+      "questionCount": 33,
       "leaf": true
     },
     {
@@ -370,8 +370,8 @@
       "level": 5,
       "page": 69,
       "chapter": 4,
-      "directQuestions": 34,
-      "questionCount": 34,
+      "directQuestions": 39,
+      "questionCount": 39,
       "leaf": true
     },
     {
@@ -380,8 +380,8 @@
       "level": 5,
       "page": 71,
       "chapter": 4,
-      "directQuestions": 9,
-      "questionCount": 9,
+      "directQuestions": 10,
+      "questionCount": 10,
       "leaf": true
     },
     {
@@ -390,8 +390,8 @@
       "level": 5,
       "page": 72,
       "chapter": 4,
-      "directQuestions": 48,
-      "questionCount": 48,
+      "directQuestions": 55,
+      "questionCount": 55,
       "leaf": true
     },
     {
@@ -400,8 +400,8 @@
       "level": 5,
       "page": 75,
       "chapter": 4,
-      "directQuestions": 21,
-      "questionCount": 21,
+      "directQuestions": 22,
+      "questionCount": 22,
       "leaf": true
     },
     {
@@ -411,7 +411,7 @@
       "page": 76,
       "chapter": 4,
       "directQuestions": 2,
-      "questionCount": 10,
+      "questionCount": 11,
       "leaf": false
     },
     {
@@ -430,8 +430,8 @@
       "level": 6,
       "page": 77,
       "chapter": 4,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 6,
+      "questionCount": 6,
       "leaf": true
     },
     {
@@ -440,8 +440,8 @@
       "level": 5,
       "page": 78,
       "chapter": 4,
-      "directQuestions": 26,
-      "questionCount": 26,
+      "directQuestions": 34,
+      "questionCount": 34,
       "leaf": true
     },
     {
@@ -461,7 +461,7 @@
       "page": 83,
       "chapter": 4,
       "directQuestions": 0,
-      "questionCount": 294,
+      "questionCount": 315,
       "leaf": false
     },
     {
@@ -551,7 +551,7 @@
       "page": 88,
       "chapter": 4,
       "directQuestions": 5,
-      "questionCount": 124,
+      "questionCount": 136,
       "leaf": false
     },
     {
@@ -560,8 +560,8 @@
       "level": 6,
       "page": 89,
       "chapter": 4,
-      "directQuestions": 59,
-      "questionCount": 59,
+      "directQuestions": 65,
+      "questionCount": 65,
       "leaf": true
     },
     {
@@ -570,8 +570,8 @@
       "level": 6,
       "page": 93,
       "chapter": 4,
-      "directQuestions": 60,
-      "questionCount": 60,
+      "directQuestions": 66,
+      "questionCount": 66,
       "leaf": true
     },
     {
@@ -590,8 +590,8 @@
       "level": 5,
       "page": 99,
       "chapter": 4,
-      "directQuestions": 14,
-      "questionCount": 14,
+      "directQuestions": 15,
+      "questionCount": 15,
       "leaf": true
     },
     {
@@ -600,8 +600,8 @@
       "level": 5,
       "page": 99,
       "chapter": 4,
-      "directQuestions": 2,
-      "questionCount": 2,
+      "directQuestions": 3,
+      "questionCount": 3,
       "leaf": true
     },
     {
@@ -610,8 +610,8 @@
       "level": 5,
       "page": 100,
       "chapter": 4,
-      "directQuestions": 8,
-      "questionCount": 8,
+      "directQuestions": 9,
+      "questionCount": 9,
       "leaf": true
     },
     {
@@ -620,8 +620,8 @@
       "level": 5,
       "page": 101,
       "chapter": 4,
-      "directQuestions": 4,
-      "questionCount": 4,
+      "directQuestions": 5,
+      "questionCount": 5,
       "leaf": true
     },
     {
@@ -631,7 +631,7 @@
       "page": 102,
       "chapter": 4,
       "directQuestions": 2,
-      "questionCount": 39,
+      "questionCount": 44,
       "leaf": false
     },
     {
@@ -640,8 +640,8 @@
       "level": 6,
       "page": 102,
       "chapter": 4,
-      "directQuestions": 23,
-      "questionCount": 23,
+      "directQuestions": 28,
+      "questionCount": 28,
       "leaf": true
     },
     {
@@ -661,7 +661,7 @@
       "page": 107,
       "chapter": 4,
       "directQuestions": 0,
-      "questionCount": 870,
+      "questionCount": 1345,
       "leaf": false
     },
     {
@@ -671,7 +671,7 @@
       "page": 107,
       "chapter": 4,
       "directQuestions": 11,
-      "questionCount": 193,
+      "questionCount": 204,
       "leaf": false
     },
     {
@@ -680,8 +680,8 @@
       "level": 6,
       "page": 107,
       "chapter": 4,
-      "directQuestions": 34,
-      "questionCount": 34,
+      "directQuestions": 36,
+      "questionCount": 36,
       "leaf": true
     },
     {
@@ -690,8 +690,8 @@
       "level": 6,
       "page": 108,
       "chapter": 4,
-      "directQuestions": 35,
-      "questionCount": 35,
+      "directQuestions": 37,
+      "questionCount": 37,
       "leaf": true
     },
     {
@@ -700,8 +700,8 @@
       "level": 6,
       "page": 110,
       "chapter": 4,
-      "directQuestions": 25,
-      "questionCount": 25,
+      "directQuestions": 26,
+      "questionCount": 26,
       "leaf": true
     },
     {
@@ -710,8 +710,8 @@
       "level": 6,
       "page": 111,
       "chapter": 4,
-      "directQuestions": 33,
-      "questionCount": 33,
+      "directQuestions": 35,
+      "questionCount": 35,
       "leaf": true
     },
     {
@@ -720,8 +720,8 @@
       "level": 6,
       "page": 113,
       "chapter": 4,
-      "directQuestions": 22,
-      "questionCount": 22,
+      "directQuestions": 23,
+      "questionCount": 23,
       "leaf": true
     },
     {
@@ -730,8 +730,8 @@
       "level": 6,
       "page": 114,
       "chapter": 4,
-      "directQuestions": 33,
-      "questionCount": 33,
+      "directQuestions": 36,
+      "questionCount": 36,
       "leaf": true
     },
     {
@@ -740,8 +740,8 @@
       "level": 5,
       "page": 116,
       "chapter": 4,
-      "directQuestions": 6,
-      "questionCount": 6,
+      "directQuestions": 8,
+      "questionCount": 8,
       "leaf": true
     },
     {
@@ -750,8 +750,8 @@
       "level": 5,
       "page": 117,
       "chapter": 4,
-      "directQuestions": 69,
-      "questionCount": 69,
+      "directQuestions": 114,
+      "questionCount": 114,
       "leaf": true
     },
     {
@@ -760,8 +760,8 @@
       "level": 5,
       "page": 123,
       "chapter": 4,
-      "directQuestions": 49,
-      "questionCount": 49,
+      "directQuestions": 72,
+      "questionCount": 72,
       "leaf": true
     },
     {
@@ -770,8 +770,8 @@
       "level": 5,
       "page": 127,
       "chapter": 4,
-      "directQuestions": 26,
-      "questionCount": 26,
+      "directQuestions": 107,
+      "questionCount": 107,
       "leaf": true
     },
     {
@@ -780,8 +780,8 @@
       "level": 5,
       "page": 131,
       "chapter": 4,
-      "directQuestions": 14,
-      "questionCount": 14,
+      "directQuestions": 20,
+      "questionCount": 20,
       "leaf": true
     },
     {
@@ -790,8 +790,8 @@
       "level": 5,
       "page": 133,
       "chapter": 4,
-      "directQuestions": 96,
-      "questionCount": 252,
+      "directQuestions": 103,
+      "questionCount": 293,
       "leaf": false
     },
     {
@@ -800,8 +800,8 @@
       "level": 6,
       "page": 136,
       "chapter": 4,
-      "directQuestions": 156,
-      "questionCount": 156,
+      "directQuestions": 190,
+      "questionCount": 190,
       "leaf": true
     },
     {
@@ -810,8 +810,8 @@
       "level": 5,
       "page": 146,
       "chapter": 4,
-      "directQuestions": 133,
-      "questionCount": 133,
+      "directQuestions": 361,
+      "questionCount": 361,
       "leaf": true
     },
     {
@@ -820,8 +820,8 @@
       "level": 5,
       "page": 159,
       "chapter": 4,
-      "directQuestions": 25,
-      "questionCount": 25,
+      "directQuestions": 35,
+      "questionCount": 35,
       "leaf": true
     },
     {
@@ -830,8 +830,8 @@
       "level": 5,
       "page": 161,
       "chapter": 4,
-      "directQuestions": 17,
-      "questionCount": 17,
+      "directQuestions": 21,
+      "questionCount": 21,
       "leaf": true
     },
     {
@@ -840,8 +840,8 @@
       "level": 5,
       "page": 162,
       "chapter": 4,
-      "directQuestions": 21,
-      "questionCount": 21,
+      "directQuestions": 22,
+      "questionCount": 22,
       "leaf": true
     },
     {
@@ -850,8 +850,8 @@
       "level": 5,
       "page": 163,
       "chapter": 4,
-      "directQuestions": 33,
-      "questionCount": 33,
+      "directQuestions": 53,
+      "questionCount": 53,
       "leaf": true
     },
     {
@@ -860,8 +860,8 @@
       "level": 5,
       "page": 169,
       "chapter": 4,
-      "directQuestions": 32,
-      "questionCount": 32,
+      "directQuestions": 35,
+      "questionCount": 35,
       "leaf": true
     },
     {
@@ -871,7 +871,7 @@
       "page": 175,
       "chapter": 4,
       "directQuestions": 0,
-      "questionCount": 77,
+      "questionCount": 105,
       "leaf": false
     },
     {
@@ -880,8 +880,8 @@
       "level": 5,
       "page": 175,
       "chapter": 4,
-      "directQuestions": 15,
-      "questionCount": 27,
+      "directQuestions": 16,
+      "questionCount": 34,
       "leaf": false
     },
     {
@@ -890,8 +890,8 @@
       "level": 6,
       "page": 175,
       "chapter": 4,
-      "directQuestions": 7,
-      "questionCount": 7,
+      "directQuestions": 10,
+      "questionCount": 10,
       "leaf": true
     },
     {
@@ -900,8 +900,8 @@
       "level": 6,
       "page": 176,
       "chapter": 4,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 8,
+      "questionCount": 8,
       "leaf": true
     },
     {
@@ -911,7 +911,7 @@
       "page": 177,
       "chapter": 4,
       "directQuestions": 0,
-      "questionCount": 10,
+      "questionCount": 19,
       "leaf": false
     },
     {
@@ -920,8 +920,8 @@
       "level": 6,
       "page": 177,
       "chapter": 4,
-      "directQuestions": 2,
-      "questionCount": 2,
+      "directQuestions": 5,
+      "questionCount": 5,
       "leaf": true
     },
     {
@@ -930,8 +930,8 @@
       "level": 6,
       "page": 177,
       "chapter": 4,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 7,
+      "questionCount": 7,
       "leaf": true
     },
     {
@@ -940,8 +940,8 @@
       "level": 6,
       "page": 178,
       "chapter": 4,
-      "directQuestions": 3,
-      "questionCount": 3,
+      "directQuestions": 7,
+      "questionCount": 7,
       "leaf": true
     },
     {
@@ -950,8 +950,8 @@
       "level": 5,
       "page": 178,
       "chapter": 4,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 6,
+      "questionCount": 6,
       "leaf": true
     },
     {
@@ -960,8 +960,8 @@
       "level": 5,
       "page": 179,
       "chapter": 4,
-      "directQuestions": 12,
-      "questionCount": 12,
+      "directQuestions": 18,
+      "questionCount": 18,
       "leaf": true
     },
     {
@@ -970,8 +970,8 @@
       "level": 5,
       "page": 180,
       "chapter": 4,
-      "directQuestions": 8,
-      "questionCount": 8,
+      "directQuestions": 9,
+      "questionCount": 9,
       "leaf": true
     },
     {
@@ -980,8 +980,8 @@
       "level": 5,
       "page": 181,
       "chapter": 4,
-      "directQuestions": 15,
-      "questionCount": 15,
+      "directQuestions": 19,
+      "questionCount": 19,
       "leaf": true
     },
     {
@@ -990,8 +990,8 @@
       "level": 4,
       "page": 185,
       "chapter": 5,
-      "directQuestions": 99,
-      "questionCount": 99,
+      "directQuestions": 107,
+      "questionCount": 107,
       "leaf": true
     },
     {
@@ -1010,8 +1010,8 @@
       "level": 4,
       "page": 191,
       "chapter": 5,
-      "directQuestions": 94,
-      "questionCount": 94,
+      "directQuestions": 109,
+      "questionCount": 109,
       "leaf": true
     },
     {
@@ -1041,7 +1041,7 @@
       "page": 199,
       "chapter": 5,
       "directQuestions": 0,
-      "questionCount": 29,
+      "questionCount": 30,
       "leaf": false
     },
     {
@@ -1050,8 +1050,8 @@
       "level": 5,
       "page": 199,
       "chapter": 5,
-      "directQuestions": 25,
-      "questionCount": 25,
+      "directQuestions": 26,
+      "questionCount": 26,
       "leaf": true
     },
     {
@@ -1070,8 +1070,8 @@
       "level": 4,
       "page": 201,
       "chapter": 5,
-      "directQuestions": 19,
-      "questionCount": 19,
+      "directQuestions": 20,
+      "questionCount": 20,
       "leaf": true
     },
     {
@@ -1081,7 +1081,7 @@
       "page": 203,
       "chapter": 5,
       "directQuestions": 0,
-      "questionCount": 29,
+      "questionCount": 32,
       "leaf": false
     },
     {
@@ -1110,8 +1110,8 @@
       "level": 5,
       "page": 203,
       "chapter": 5,
-      "directQuestions": 15,
-      "questionCount": 15,
+      "directQuestions": 18,
+      "questionCount": 18,
       "leaf": true
     },
     {
@@ -1141,7 +1141,7 @@
       "page": 207,
       "chapter": 5,
       "directQuestions": 2,
-      "questionCount": 114,
+      "questionCount": 116,
       "leaf": false
     },
     {
@@ -1150,8 +1150,8 @@
       "level": 5,
       "page": 207,
       "chapter": 5,
-      "directQuestions": 70,
-      "questionCount": 70,
+      "directQuestions": 71,
+      "questionCount": 71,
       "leaf": true
     },
     {
@@ -1160,8 +1160,8 @@
       "level": 5,
       "page": 209,
       "chapter": 5,
-      "directQuestions": 42,
-      "questionCount": 42,
+      "directQuestions": 43,
+      "questionCount": 43,
       "leaf": true
     },
     {
@@ -1180,8 +1180,8 @@
       "level": 4,
       "page": 215,
       "chapter": 5,
-      "directQuestions": 21,
-      "questionCount": 21,
+      "directQuestions": 22,
+      "questionCount": 22,
       "leaf": true
     },
     {
@@ -1190,8 +1190,8 @@
       "level": 4,
       "page": 217,
       "chapter": 5,
-      "directQuestions": 40,
-      "questionCount": 40,
+      "directQuestions": 42,
+      "questionCount": 42,
       "leaf": true
     },
     {
@@ -1200,8 +1200,8 @@
       "level": 4,
       "page": 219,
       "chapter": 5,
-      "directQuestions": 19,
-      "questionCount": 19,
+      "directQuestions": 20,
+      "questionCount": 20,
       "leaf": true
     },
     {
@@ -1211,7 +1211,7 @@
       "page": 221,
       "chapter": 5,
       "directQuestions": 0,
-      "questionCount": 82,
+      "questionCount": 83,
       "leaf": false
     },
     {
@@ -1220,8 +1220,8 @@
       "level": 5,
       "page": 221,
       "chapter": 5,
-      "directQuestions": 7,
-      "questionCount": 7,
+      "directQuestions": 8,
+      "questionCount": 8,
       "leaf": true
     },
     {
@@ -1311,7 +1311,7 @@
       "page": 227,
       "chapter": 5,
       "directQuestions": 0,
-      "questionCount": 36,
+      "questionCount": 48,
       "leaf": false
     },
     {
@@ -1320,8 +1320,8 @@
       "level": 5,
       "page": 227,
       "chapter": 5,
-      "directQuestions": 36,
-      "questionCount": 36,
+      "directQuestions": 48,
+      "questionCount": 48,
       "leaf": true
     },
     {
@@ -1330,8 +1330,8 @@
       "level": 4,
       "page": 229,
       "chapter": 5,
-      "directQuestions": 34,
-      "questionCount": 34,
+      "directQuestions": 48,
+      "questionCount": 48,
       "leaf": true
     },
     {
@@ -1341,7 +1341,7 @@
       "page": 231,
       "chapter": 5,
       "directQuestions": 0,
-      "questionCount": 21,
+      "questionCount": 34,
       "leaf": false
     },
     {
@@ -1350,8 +1350,8 @@
       "level": 5,
       "page": 231,
       "chapter": 5,
-      "directQuestions": 1,
-      "questionCount": 1,
+      "directQuestions": 3,
+      "questionCount": 3,
       "leaf": true
     },
     {
@@ -1360,8 +1360,8 @@
       "level": 5,
       "page": 231,
       "chapter": 5,
-      "directQuestions": 9,
-      "questionCount": 9,
+      "directQuestions": 16,
+      "questionCount": 16,
       "leaf": true
     },
     {
@@ -1370,8 +1370,8 @@
       "level": 5,
       "page": 232,
       "chapter": 5,
-      "directQuestions": 11,
-      "questionCount": 11,
+      "directQuestions": 15,
+      "questionCount": 15,
       "leaf": true
     },
     {
@@ -1380,8 +1380,8 @@
       "level": 4,
       "page": 235,
       "chapter": 6,
-      "directQuestions": 120,
-      "questionCount": 354,
+      "directQuestions": 143,
+      "questionCount": 407,
       "leaf": false
     },
     {
@@ -1391,7 +1391,7 @@
       "page": 239,
       "chapter": 6,
       "directQuestions": 1,
-      "questionCount": 58,
+      "questionCount": 71,
       "leaf": false
     },
     {
@@ -1400,8 +1400,8 @@
       "level": 6,
       "page": 240,
       "chapter": 6,
-      "directQuestions": 31,
-      "questionCount": 31,
+      "directQuestions": 37,
+      "questionCount": 37,
       "leaf": true
     },
     {
@@ -1410,8 +1410,8 @@
       "level": 6,
       "page": 241,
       "chapter": 6,
-      "directQuestions": 20,
-      "questionCount": 20,
+      "directQuestions": 23,
+      "questionCount": 23,
       "leaf": true
     },
     {
@@ -1420,8 +1420,8 @@
       "level": 6,
       "page": 243,
       "chapter": 6,
-      "directQuestions": 6,
-      "questionCount": 6,
+      "directQuestions": 10,
+      "questionCount": 10,
       "leaf": true
     },
     {
@@ -1430,8 +1430,8 @@
       "level": 5,
       "page": 244,
       "chapter": 6,
-      "directQuestions": 22,
-      "questionCount": 22,
+      "directQuestions": 25,
+      "questionCount": 25,
       "leaf": true
     },
     {
@@ -1440,8 +1440,8 @@
       "level": 5,
       "page": 244,
       "chapter": 6,
-      "directQuestions": 15,
-      "questionCount": 15,
+      "directQuestions": 17,
+      "questionCount": 17,
       "leaf": true
     },
     {
@@ -1460,8 +1460,8 @@
       "level": 5,
       "page": 245,
       "chapter": 6,
-      "directQuestions": 8,
-      "questionCount": 8,
+      "directQuestions": 9,
+      "questionCount": 9,
       "leaf": true
     },
     {
@@ -1480,8 +1480,8 @@
       "level": 5,
       "page": 245,
       "chapter": 6,
-      "directQuestions": 12,
-      "questionCount": 12,
+      "directQuestions": 14,
+      "questionCount": 14,
       "leaf": true
     },
     {
@@ -1490,8 +1490,8 @@
       "level": 5,
       "page": 246,
       "chapter": 6,
-      "directQuestions": 14,
-      "questionCount": 14,
+      "directQuestions": 17,
+      "questionCount": 17,
       "leaf": true
     },
     {
@@ -1501,7 +1501,7 @@
       "page": 246,
       "chapter": 6,
       "directQuestions": 0,
-      "questionCount": 48,
+      "questionCount": 53,
       "leaf": false
     },
     {
@@ -1510,8 +1510,8 @@
       "level": 6,
       "page": 246,
       "chapter": 6,
-      "directQuestions": 26,
-      "questionCount": 26,
+      "directQuestions": 29,
+      "questionCount": 29,
       "leaf": true
     },
     {
@@ -1520,8 +1520,8 @@
       "level": 6,
       "page": 248,
       "chapter": 6,
-      "directQuestions": 22,
-      "questionCount": 22,
+      "directQuestions": 24,
+      "questionCount": 24,
       "leaf": true
     },
     {
@@ -1530,8 +1530,8 @@
       "level": 5,
       "page": 249,
       "chapter": 6,
-      "directQuestions": 42,
-      "questionCount": 42,
+      "directQuestions": 43,
+      "questionCount": 43,
       "leaf": true
     },
     {
@@ -1631,7 +1631,7 @@
       "page": 255,
       "chapter": 6,
       "directQuestions": 0,
-      "questionCount": 86,
+      "questionCount": 105,
       "leaf": false
     },
     {
@@ -1660,8 +1660,8 @@
       "level": 5,
       "page": 255,
       "chapter": 6,
-      "directQuestions": 9,
-      "questionCount": 9,
+      "directQuestions": 11,
+      "questionCount": 11,
       "leaf": true
     },
     {
@@ -1670,8 +1670,8 @@
       "level": 5,
       "page": 255,
       "chapter": 6,
-      "directQuestions": 9,
-      "questionCount": 9,
+      "directQuestions": 12,
+      "questionCount": 12,
       "leaf": true
     },
     {
@@ -1680,8 +1680,8 @@
       "level": 5,
       "page": 255,
       "chapter": 6,
-      "directQuestions": 11,
-      "questionCount": 11,
+      "directQuestions": 19,
+      "questionCount": 19,
       "leaf": true
     },
     {
@@ -1690,8 +1690,8 @@
       "level": 5,
       "page": 256,
       "chapter": 6,
-      "directQuestions": 13,
-      "questionCount": 13,
+      "directQuestions": 16,
+      "questionCount": 16,
       "leaf": true
     },
     {
@@ -1710,8 +1710,8 @@
       "level": 5,
       "page": 256,
       "chapter": 6,
-      "directQuestions": 12,
-      "questionCount": 12,
+      "directQuestions": 14,
+      "questionCount": 14,
       "leaf": true
     },
     {
@@ -1720,8 +1720,8 @@
       "level": 5,
       "page": 257,
       "chapter": 6,
-      "directQuestions": 19,
-      "questionCount": 19,
+      "directQuestions": 20,
+      "questionCount": 20,
       "leaf": true
     },
     {
@@ -1760,8 +1760,8 @@
       "level": 4,
       "page": 265,
       "chapter": 6,
-      "directQuestions": 126,
-      "questionCount": 126,
+      "directQuestions": 140,
+      "questionCount": 140,
       "leaf": true
     },
     {
@@ -1770,8 +1770,8 @@
       "level": 4,
       "page": 273,
       "chapter": 6,
-      "directQuestions": 54,
-      "questionCount": 54,
+      "directQuestions": 68,
+      "questionCount": 68,
       "leaf": true
     },
     {
@@ -1781,7 +1781,7 @@
       "page": 277,
       "chapter": 6,
       "directQuestions": 0,
-      "questionCount": 103,
+      "questionCount": 129,
       "leaf": false
     },
     {
@@ -1810,8 +1810,8 @@
       "level": 5,
       "page": 277,
       "chapter": 6,
-      "directQuestions": 22,
-      "questionCount": 95,
+      "directQuestions": 38,
+      "questionCount": 121,
       "leaf": false
     },
     {
@@ -1820,8 +1820,8 @@
       "level": 6,
       "page": 278,
       "chapter": 6,
-      "directQuestions": 73,
-      "questionCount": 73,
+      "directQuestions": 83,
+      "questionCount": 83,
       "leaf": true
     },
     {
@@ -1831,7 +1831,7 @@
       "page": 283,
       "chapter": 6,
       "directQuestions": 0,
-      "questionCount": 32,
+      "questionCount": 37,
       "leaf": false
     },
     {
@@ -1850,8 +1850,8 @@
       "level": 5,
       "page": 283,
       "chapter": 6,
-      "directQuestions": 2,
-      "questionCount": 2,
+      "directQuestions": 6,
+      "questionCount": 6,
       "leaf": true
     },
     {
@@ -1860,8 +1860,8 @@
       "level": 5,
       "page": 283,
       "chapter": 6,
-      "directQuestions": 17,
-      "questionCount": 17,
+      "directQuestions": 18,
+      "questionCount": 18,
       "leaf": true
     },
     {
@@ -1871,7 +1871,7 @@
       "page": 287,
       "chapter": 7,
       "directQuestions": 0,
-      "questionCount": 32,
+      "questionCount": 34,
       "leaf": false
     },
     {
@@ -1880,8 +1880,8 @@
       "level": 5,
       "page": 287,
       "chapter": 7,
-      "directQuestions": 29,
-      "questionCount": 29,
+      "directQuestions": 31,
+      "questionCount": 31,
       "leaf": true
     },
     {
@@ -1901,7 +1901,7 @@
       "page": 289,
       "chapter": 7,
       "directQuestions": 0,
-      "questionCount": 219,
+      "questionCount": 265,
       "leaf": false
     },
     {
@@ -1910,8 +1910,8 @@
       "level": 5,
       "page": 289,
       "chapter": 7,
-      "directQuestions": 24,
-      "questionCount": 24,
+      "directQuestions": 36,
+      "questionCount": 36,
       "leaf": true
     },
     {
@@ -1931,7 +1931,7 @@
       "page": 290,
       "chapter": 7,
       "directQuestions": 3,
-      "questionCount": 149,
+      "questionCount": 181,
       "leaf": false
     },
     {
@@ -1940,8 +1940,8 @@
       "level": 6,
       "page": 290,
       "chapter": 7,
-      "directQuestions": 1,
-      "questionCount": 1,
+      "directQuestions": 2,
+      "questionCount": 2,
       "leaf": true
     },
     {
@@ -1950,8 +1950,8 @@
       "level": 6,
       "page": 290,
       "chapter": 7,
-      "directQuestions": 18,
-      "questionCount": 18,
+      "directQuestions": 20,
+      "questionCount": 20,
       "leaf": true
     },
     {
@@ -1960,8 +1960,8 @@
       "level": 6,
       "page": 291,
       "chapter": 7,
-      "directQuestions": 84,
-      "questionCount": 84,
+      "directQuestions": 95,
+      "questionCount": 95,
       "leaf": true
     },
     {
@@ -1970,8 +1970,8 @@
       "level": 6,
       "page": 294,
       "chapter": 7,
-      "directQuestions": 18,
-      "questionCount": 18,
+      "directQuestions": 20,
+      "questionCount": 20,
       "leaf": true
     },
     {
@@ -1990,8 +1990,8 @@
       "level": 6,
       "page": 296,
       "chapter": 7,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 9,
+      "questionCount": 9,
       "leaf": true
     },
     {
@@ -2000,8 +2000,8 @@
       "level": 6,
       "page": 296,
       "chapter": 7,
-      "directQuestions": 19,
-      "questionCount": 19,
+      "directQuestions": 31,
+      "questionCount": 31,
       "leaf": true
     },
     {
@@ -2010,8 +2010,8 @@
       "level": 5,
       "page": 296,
       "chapter": 7,
-      "directQuestions": 33,
-      "questionCount": 33,
+      "directQuestions": 35,
+      "questionCount": 35,
       "leaf": true
     },
     {
@@ -2021,7 +2021,7 @@
       "page": 299,
       "chapter": 7,
       "directQuestions": 0,
-      "questionCount": 63,
+      "questionCount": 86,
       "leaf": false
     },
     {
@@ -2030,8 +2030,8 @@
       "level": 5,
       "page": 299,
       "chapter": 7,
-      "directQuestions": 8,
-      "questionCount": 8,
+      "directQuestions": 15,
+      "questionCount": 15,
       "leaf": true
     },
     {
@@ -2040,8 +2040,8 @@
       "level": 5,
       "page": 299,
       "chapter": 7,
-      "directQuestions": 11,
-      "questionCount": 11,
+      "directQuestions": 14,
+      "questionCount": 14,
       "leaf": true
     },
     {
@@ -2050,8 +2050,8 @@
       "level": 5,
       "page": 300,
       "chapter": 7,
-      "directQuestions": 4,
-      "questionCount": 4,
+      "directQuestions": 7,
+      "questionCount": 7,
       "leaf": true
     },
     {
@@ -2060,8 +2060,8 @@
       "level": 5,
       "page": 300,
       "chapter": 7,
-      "directQuestions": 23,
-      "questionCount": 23,
+      "directQuestions": 29,
+      "questionCount": 29,
       "leaf": true
     },
     {
@@ -2070,8 +2070,8 @@
       "level": 5,
       "page": 301,
       "chapter": 7,
-      "directQuestions": 4,
-      "questionCount": 4,
+      "directQuestions": 7,
+      "questionCount": 7,
       "leaf": true
     },
     {
@@ -2081,7 +2081,7 @@
       "page": 301,
       "chapter": 7,
       "directQuestions": 0,
-      "questionCount": 13,
+      "questionCount": 14,
       "leaf": false
     },
     {
@@ -2120,8 +2120,8 @@
       "level": 6,
       "page": 302,
       "chapter": 7,
-      "directQuestions": 1,
-      "questionCount": 1,
+      "directQuestions": 2,
+      "questionCount": 2,
       "leaf": true
     },
     {
@@ -2190,8 +2190,8 @@
       "level": 4,
       "page": 309,
       "chapter": 8,
-      "directQuestions": 53,
-      "questionCount": 53,
+      "directQuestions": 54,
+      "questionCount": 54,
       "leaf": true
     },
     {
@@ -2211,7 +2211,7 @@
       "page": 317,
       "chapter": 8,
       "directQuestions": 2,
-      "questionCount": 79,
+      "questionCount": 96,
       "leaf": false
     },
     {
@@ -2250,8 +2250,8 @@
       "level": 5,
       "page": 317,
       "chapter": 8,
-      "directQuestions": 31,
-      "questionCount": 31,
+      "directQuestions": 48,
+      "questionCount": 48,
       "leaf": true
     },
     {
@@ -2270,8 +2270,8 @@
       "level": 4,
       "page": 321,
       "chapter": 8,
-      "directQuestions": 8,
-      "questionCount": 8,
+      "directQuestions": 176,
+      "questionCount": 176,
       "leaf": true
     },
     {
@@ -2281,7 +2281,7 @@
       "page": 323,
       "chapter": 8,
       "directQuestions": 0,
-      "questionCount": 72,
+      "questionCount": 87,
       "leaf": false
     },
     {
@@ -2290,8 +2290,8 @@
       "level": 5,
       "page": 323,
       "chapter": 8,
-      "directQuestions": 7,
-      "questionCount": 7,
+      "directQuestions": 8,
+      "questionCount": 8,
       "leaf": true
     },
     {
@@ -2300,8 +2300,8 @@
       "level": 5,
       "page": 323,
       "chapter": 8,
-      "directQuestions": 65,
-      "questionCount": 65,
+      "directQuestions": 79,
+      "questionCount": 79,
       "leaf": true
     },
     {
@@ -2310,8 +2310,8 @@
       "level": 4,
       "page": 329,
       "chapter": 8,
-      "directQuestions": 2,
-      "questionCount": 2,
+      "directQuestions": 3,
+      "questionCount": 3,
       "leaf": true
     },
     {
@@ -2330,8 +2330,8 @@
       "level": 4,
       "page": 335,
       "chapter": 9,
-      "directQuestions": 3,
-      "questionCount": 35,
+      "directQuestions": 5,
+      "questionCount": 38,
       "leaf": false
     },
     {
@@ -2341,7 +2341,7 @@
       "page": 335,
       "chapter": 9,
       "directQuestions": 0,
-      "questionCount": 32,
+      "questionCount": 33,
       "leaf": false
     },
     {
@@ -2380,8 +2380,8 @@
       "level": 6,
       "page": 335,
       "chapter": 9,
-      "directQuestions": 2,
-      "questionCount": 2,
+      "directQuestions": 3,
+      "questionCount": 3,
       "leaf": true
     },
     {
@@ -2430,8 +2430,8 @@
       "level": 4,
       "page": 337,
       "chapter": 9,
-      "directQuestions": 8,
-      "questionCount": 195,
+      "directQuestions": 9,
+      "questionCount": 289,
       "leaf": false
     },
     {
@@ -2440,8 +2440,8 @@
       "level": 5,
       "page": 337,
       "chapter": 9,
-      "directQuestions": 71,
-      "questionCount": 71,
+      "directQuestions": 84,
+      "questionCount": 84,
       "leaf": true
     },
     {
@@ -2451,7 +2451,7 @@
       "page": 340,
       "chapter": 9,
       "directQuestions": 2,
-      "questionCount": 116,
+      "questionCount": 196,
       "leaf": false
     },
     {
@@ -2460,8 +2460,8 @@
       "level": 6,
       "page": 340,
       "chapter": 9,
-      "directQuestions": 15,
-      "questionCount": 15,
+      "directQuestions": 22,
+      "questionCount": 22,
       "leaf": true
     },
     {
@@ -2470,8 +2470,8 @@
       "level": 6,
       "page": 340,
       "chapter": 9,
-      "directQuestions": 35,
-      "questionCount": 35,
+      "directQuestions": 36,
+      "questionCount": 36,
       "leaf": true
     },
     {
@@ -2510,8 +2510,8 @@
       "level": 6,
       "page": 344,
       "chapter": 9,
-      "directQuestions": 2,
-      "questionCount": 2,
+      "directQuestions": 7,
+      "questionCount": 7,
       "leaf": true
     },
     {
@@ -2520,8 +2520,8 @@
       "level": 6,
       "page": 344,
       "chapter": 9,
-      "directQuestions": 9,
-      "questionCount": 9,
+      "directQuestions": 11,
+      "questionCount": 11,
       "leaf": true
     },
     {
@@ -2530,8 +2530,8 @@
       "level": 6,
       "page": 345,
       "chapter": 9,
-      "directQuestions": 2,
-      "questionCount": 2,
+      "directQuestions": 55,
+      "questionCount": 55,
       "leaf": true
     },
     {
@@ -2540,8 +2540,8 @@
       "level": 6,
       "page": 345,
       "chapter": 9,
-      "directQuestions": 13,
-      "questionCount": 13,
+      "directQuestions": 25,
+      "questionCount": 25,
       "leaf": true
     },
     {
@@ -2560,8 +2560,8 @@
       "level": 4,
       "page": 347,
       "chapter": 9,
-      "directQuestions": 3,
-      "questionCount": 3,
+      "directQuestions": 5,
+      "questionCount": 5,
       "leaf": true
     },
     {
@@ -2571,7 +2571,7 @@
       "page": 349,
       "chapter": 9,
       "directQuestions": 0,
-      "questionCount": 104,
+      "questionCount": 131,
       "leaf": false
     },
     {
@@ -2580,8 +2580,8 @@
       "level": 5,
       "page": 349,
       "chapter": 9,
-      "directQuestions": 31,
-      "questionCount": 31,
+      "directQuestions": 32,
+      "questionCount": 32,
       "leaf": true
     },
     {
@@ -2660,8 +2660,8 @@
       "level": 5,
       "page": 351,
       "chapter": 9,
-      "directQuestions": 34,
-      "questionCount": 34,
+      "directQuestions": 60,
+      "questionCount": 60,
       "leaf": true
     },
     {
@@ -2691,7 +2691,7 @@
       "page": 357,
       "chapter": 9,
       "directQuestions": 3,
-      "questionCount": 666,
+      "questionCount": 847,
       "leaf": false
     },
     {
@@ -2701,7 +2701,7 @@
       "page": 357,
       "chapter": 9,
       "directQuestions": 2,
-      "questionCount": 9,
+      "questionCount": 12,
       "leaf": false
     },
     {
@@ -2710,8 +2710,8 @@
       "level": 6,
       "page": 357,
       "chapter": 9,
-      "directQuestions": 2,
-      "questionCount": 2,
+      "directQuestions": 3,
+      "questionCount": 3,
       "leaf": true
     },
     {
@@ -2720,8 +2720,8 @@
       "level": 6,
       "page": 357,
       "chapter": 9,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 7,
+      "questionCount": 7,
       "leaf": true
     },
     {
@@ -2731,7 +2731,7 @@
       "page": 357,
       "chapter": 9,
       "directQuestions": 2,
-      "questionCount": 14,
+      "questionCount": 23,
       "leaf": false
     },
     {
@@ -2740,8 +2740,8 @@
       "level": 6,
       "page": 357,
       "chapter": 9,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 12,
+      "questionCount": 12,
       "leaf": true
     },
     {
@@ -2750,8 +2750,8 @@
       "level": 6,
       "page": 358,
       "chapter": 9,
-      "directQuestions": 7,
-      "questionCount": 7,
+      "directQuestions": 9,
+      "questionCount": 9,
       "leaf": true
     },
     {
@@ -2761,7 +2761,7 @@
       "page": 358,
       "chapter": 9,
       "directQuestions": 3,
-      "questionCount": 12,
+      "questionCount": 15,
       "leaf": false
     },
     {
@@ -2770,8 +2770,8 @@
       "level": 6,
       "page": 358,
       "chapter": 9,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 8,
+      "questionCount": 8,
       "leaf": true
     },
     {
@@ -2791,7 +2791,7 @@
       "page": 358,
       "chapter": 9,
       "directQuestions": 3,
-      "questionCount": 22,
+      "questionCount": 25,
       "leaf": false
     },
     {
@@ -2800,8 +2800,8 @@
       "level": 6,
       "page": 358,
       "chapter": 9,
-      "directQuestions": 10,
-      "questionCount": 10,
+      "directQuestions": 11,
+      "questionCount": 11,
       "leaf": true
     },
     {
@@ -2810,8 +2810,8 @@
       "level": 6,
       "page": 359,
       "chapter": 9,
-      "directQuestions": 9,
-      "questionCount": 9,
+      "directQuestions": 11,
+      "questionCount": 11,
       "leaf": true
     },
     {
@@ -2821,7 +2821,7 @@
       "page": 359,
       "chapter": 9,
       "directQuestions": 2,
-      "questionCount": 6,
+      "questionCount": 7,
       "leaf": false
     },
     {
@@ -2830,8 +2830,8 @@
       "level": 6,
       "page": 359,
       "chapter": 9,
-      "directQuestions": 4,
-      "questionCount": 4,
+      "directQuestions": 5,
+      "questionCount": 5,
       "leaf": true
     },
     {
@@ -2841,7 +2841,7 @@
       "page": 359,
       "chapter": 9,
       "directQuestions": 4,
-      "questionCount": 14,
+      "questionCount": 17,
       "leaf": false
     },
     {
@@ -2850,8 +2850,8 @@
       "level": 6,
       "page": 359,
       "chapter": 9,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 7,
+      "questionCount": 7,
       "leaf": true
     },
     {
@@ -2860,8 +2860,8 @@
       "level": 6,
       "page": 360,
       "chapter": 9,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 6,
+      "questionCount": 6,
       "leaf": true
     },
     {
@@ -2871,7 +2871,7 @@
       "page": 360,
       "chapter": 9,
       "directQuestions": 2,
-      "questionCount": 30,
+      "questionCount": 38,
       "leaf": false
     },
     {
@@ -2880,8 +2880,8 @@
       "level": 6,
       "page": 360,
       "chapter": 9,
-      "directQuestions": 7,
-      "questionCount": 7,
+      "directQuestions": 12,
+      "questionCount": 12,
       "leaf": true
     },
     {
@@ -2890,8 +2890,8 @@
       "level": 6,
       "page": 360,
       "chapter": 9,
-      "directQuestions": 21,
-      "questionCount": 21,
+      "directQuestions": 24,
+      "questionCount": 24,
       "leaf": true
     },
     {
@@ -2901,7 +2901,7 @@
       "page": 361,
       "chapter": 9,
       "directQuestions": 4,
-      "questionCount": 33,
+      "questionCount": 65,
       "leaf": false
     },
     {
@@ -2910,8 +2910,8 @@
       "level": 6,
       "page": 361,
       "chapter": 9,
-      "directQuestions": 8,
-      "questionCount": 8,
+      "directQuestions": 11,
+      "questionCount": 11,
       "leaf": true
     },
     {
@@ -2920,8 +2920,8 @@
       "level": 6,
       "page": 361,
       "chapter": 9,
-      "directQuestions": 9,
-      "questionCount": 9,
+      "directQuestions": 10,
+      "questionCount": 10,
       "leaf": true
     },
     {
@@ -2930,8 +2930,8 @@
       "level": 6,
       "page": 362,
       "chapter": 9,
-      "directQuestions": 12,
-      "questionCount": 12,
+      "directQuestions": 40,
+      "questionCount": 40,
       "leaf": true
     },
     {
@@ -2941,7 +2941,7 @@
       "page": 362,
       "chapter": 9,
       "directQuestions": 1,
-      "questionCount": 7,
+      "questionCount": 9,
       "leaf": false
     },
     {
@@ -2950,8 +2950,8 @@
       "level": 6,
       "page": 362,
       "chapter": 9,
-      "directQuestions": 6,
-      "questionCount": 6,
+      "directQuestions": 8,
+      "questionCount": 8,
       "leaf": true
     },
     {
@@ -2961,7 +2961,7 @@
       "page": 362,
       "chapter": 9,
       "directQuestions": 2,
-      "questionCount": 13,
+      "questionCount": 14,
       "leaf": false
     },
     {
@@ -2980,8 +2980,8 @@
       "level": 6,
       "page": 363,
       "chapter": 9,
-      "directQuestions": 8,
-      "questionCount": 8,
+      "directQuestions": 9,
+      "questionCount": 9,
       "leaf": true
     },
     {
@@ -2991,7 +2991,7 @@
       "page": 363,
       "chapter": 9,
       "directQuestions": 1,
-      "questionCount": 27,
+      "questionCount": 32,
       "leaf": false
     },
     {
@@ -3030,8 +3030,8 @@
       "level": 6,
       "page": 363,
       "chapter": 9,
-      "directQuestions": 18,
-      "questionCount": 18,
+      "directQuestions": 20,
+      "questionCount": 20,
       "leaf": true
     },
     {
@@ -3040,8 +3040,8 @@
       "level": 6,
       "page": 364,
       "chapter": 9,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 8,
+      "questionCount": 8,
       "leaf": true
     },
     {
@@ -3051,7 +3051,7 @@
       "page": 364,
       "chapter": 9,
       "directQuestions": 1,
-      "questionCount": 42,
+      "questionCount": 49,
       "leaf": false
     },
     {
@@ -3060,8 +3060,8 @@
       "level": 6,
       "page": 364,
       "chapter": 9,
-      "directQuestions": 6,
-      "questionCount": 6,
+      "directQuestions": 9,
+      "questionCount": 9,
       "leaf": true
     },
     {
@@ -3070,8 +3070,8 @@
       "level": 6,
       "page": 364,
       "chapter": 9,
-      "directQuestions": 12,
-      "questionCount": 12,
+      "directQuestions": 14,
+      "questionCount": 14,
       "leaf": true
     },
     {
@@ -3080,8 +3080,8 @@
       "level": 6,
       "page": 366,
       "chapter": 9,
-      "directQuestions": 7,
-      "questionCount": 7,
+      "directQuestions": 8,
+      "questionCount": 8,
       "leaf": true
     },
     {
@@ -3090,8 +3090,8 @@
       "level": 6,
       "page": 367,
       "chapter": 9,
-      "directQuestions": 16,
-      "questionCount": 16,
+      "directQuestions": 17,
+      "questionCount": 17,
       "leaf": true
     },
     {
@@ -3101,7 +3101,7 @@
       "page": 367,
       "chapter": 9,
       "directQuestions": 1,
-      "questionCount": 15,
+      "questionCount": 17,
       "leaf": false
     },
     {
@@ -3120,8 +3120,8 @@
       "level": 6,
       "page": 367,
       "chapter": 9,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 7,
+      "questionCount": 7,
       "leaf": true
     },
     {
@@ -3141,7 +3141,7 @@
       "page": 368,
       "chapter": 9,
       "directQuestions": 1,
-      "questionCount": 24,
+      "questionCount": 35,
       "leaf": false
     },
     {
@@ -3151,7 +3151,7 @@
       "page": 368,
       "chapter": 9,
       "directQuestions": 3,
-      "questionCount": 15,
+      "questionCount": 21,
       "leaf": false
     },
     {
@@ -3160,8 +3160,8 @@
       "level": 7,
       "page": 368,
       "chapter": 9,
-      "directQuestions": 6,
-      "questionCount": 6,
+      "directQuestions": 11,
+      "questionCount": 11,
       "leaf": true
     },
     {
@@ -3170,8 +3170,8 @@
       "level": 7,
       "page": 368,
       "chapter": 9,
-      "directQuestions": 6,
-      "questionCount": 6,
+      "directQuestions": 7,
+      "questionCount": 7,
       "leaf": true
     },
     {
@@ -3181,7 +3181,7 @@
       "page": 369,
       "chapter": 9,
       "directQuestions": 2,
-      "questionCount": 8,
+      "questionCount": 13,
       "leaf": false
     },
     {
@@ -3190,8 +3190,8 @@
       "level": 7,
       "page": 369,
       "chapter": 9,
-      "directQuestions": 1,
-      "questionCount": 1,
+      "directQuestions": 5,
+      "questionCount": 5,
       "leaf": true
     },
     {
@@ -3200,8 +3200,8 @@
       "level": 7,
       "page": 369,
       "chapter": 9,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 6,
+      "questionCount": 6,
       "leaf": true
     },
     {
@@ -3211,7 +3211,7 @@
       "page": 369,
       "chapter": 9,
       "directQuestions": 1,
-      "questionCount": 23,
+      "questionCount": 39,
       "leaf": false
     },
     {
@@ -3220,8 +3220,8 @@
       "level": 6,
       "page": 370,
       "chapter": 9,
-      "directQuestions": 15,
-      "questionCount": 15,
+      "directQuestions": 30,
+      "questionCount": 30,
       "leaf": true
     },
     {
@@ -3230,8 +3230,8 @@
       "level": 6,
       "page": 370,
       "chapter": 9,
-      "directQuestions": 7,
-      "questionCount": 7,
+      "directQuestions": 8,
+      "questionCount": 8,
       "leaf": true
     },
     {
@@ -3241,7 +3241,7 @@
       "page": 370,
       "chapter": 9,
       "directQuestions": 2,
-      "questionCount": 42,
+      "questionCount": 44,
       "leaf": false
     },
     {
@@ -3281,7 +3281,7 @@
       "page": 371,
       "chapter": 9,
       "directQuestions": 0,
-      "questionCount": 16,
+      "questionCount": 17,
       "leaf": false
     },
     {
@@ -3300,8 +3300,8 @@
       "level": 7,
       "page": 371,
       "chapter": 9,
-      "directQuestions": 13,
-      "questionCount": 13,
+      "directQuestions": 14,
+      "questionCount": 14,
       "leaf": true
     },
     {
@@ -3311,7 +3311,7 @@
       "page": 372,
       "chapter": 9,
       "directQuestions": 0,
-      "questionCount": 9,
+      "questionCount": 10,
       "leaf": false
     },
     {
@@ -3330,8 +3330,8 @@
       "level": 7,
       "page": 372,
       "chapter": 9,
-      "directQuestions": 7,
-      "questionCount": 7,
+      "directQuestions": 8,
+      "questionCount": 8,
       "leaf": true
     },
     {
@@ -3361,7 +3361,7 @@
       "page": 372,
       "chapter": 9,
       "directQuestions": 1,
-      "questionCount": 25,
+      "questionCount": 28,
       "leaf": false
     },
     {
@@ -3370,8 +3370,8 @@
       "level": 6,
       "page": 372,
       "chapter": 9,
-      "directQuestions": 12,
-      "questionCount": 12,
+      "directQuestions": 14,
+      "questionCount": 14,
       "leaf": true
     },
     {
@@ -3380,8 +3380,8 @@
       "level": 6,
       "page": 372,
       "chapter": 9,
-      "directQuestions": 12,
-      "questionCount": 12,
+      "directQuestions": 13,
+      "questionCount": 13,
       "leaf": true
     },
     {
@@ -3391,7 +3391,7 @@
       "page": 373,
       "chapter": 9,
       "directQuestions": 4,
-      "questionCount": 14,
+      "questionCount": 18,
       "leaf": false
     },
     {
@@ -3400,8 +3400,8 @@
       "level": 6,
       "page": 373,
       "chapter": 9,
-      "directQuestions": 3,
-      "questionCount": 3,
+      "directQuestions": 5,
+      "questionCount": 5,
       "leaf": true
     },
     {
@@ -3410,8 +3410,8 @@
       "level": 6,
       "page": 373,
       "chapter": 9,
-      "directQuestions": 7,
-      "questionCount": 7,
+      "directQuestions": 9,
+      "questionCount": 9,
       "leaf": true
     },
     {
@@ -3421,7 +3421,7 @@
       "page": 373,
       "chapter": 9,
       "directQuestions": 2,
-      "questionCount": 19,
+      "questionCount": 26,
       "leaf": false
     },
     {
@@ -3430,8 +3430,8 @@
       "level": 6,
       "page": 374,
       "chapter": 9,
-      "directQuestions": 6,
-      "questionCount": 6,
+      "directQuestions": 12,
+      "questionCount": 12,
       "leaf": true
     },
     {
@@ -3440,8 +3440,8 @@
       "level": 6,
       "page": 374,
       "chapter": 9,
-      "directQuestions": 11,
-      "questionCount": 11,
+      "directQuestions": 12,
+      "questionCount": 12,
       "leaf": true
     },
     {
@@ -3451,7 +3451,7 @@
       "page": 374,
       "chapter": 9,
       "directQuestions": 4,
-      "questionCount": 28,
+      "questionCount": 32,
       "leaf": false
     },
     {
@@ -3460,8 +3460,8 @@
       "level": 6,
       "page": 374,
       "chapter": 9,
-      "directQuestions": 9,
-      "questionCount": 9,
+      "directQuestions": 10,
+      "questionCount": 10,
       "leaf": true
     },
     {
@@ -3470,8 +3470,8 @@
       "level": 6,
       "page": 375,
       "chapter": 9,
-      "directQuestions": 15,
-      "questionCount": 15,
+      "directQuestions": 18,
+      "questionCount": 18,
       "leaf": true
     },
     {
@@ -3481,7 +3481,7 @@
       "page": 375,
       "chapter": 9,
       "directQuestions": 1,
-      "questionCount": 18,
+      "questionCount": 21,
       "leaf": false
     },
     {
@@ -3491,7 +3491,7 @@
       "page": 375,
       "chapter": 9,
       "directQuestions": 1,
-      "questionCount": 6,
+      "questionCount": 8,
       "leaf": false
     },
     {
@@ -3500,8 +3500,8 @@
       "level": 7,
       "page": 375,
       "chapter": 9,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 7,
+      "questionCount": 7,
       "leaf": true
     },
     {
@@ -3531,7 +3531,7 @@
       "page": 376,
       "chapter": 9,
       "directQuestions": 1,
-      "questionCount": 6,
+      "questionCount": 7,
       "leaf": false
     },
     {
@@ -3540,8 +3540,8 @@
       "level": 7,
       "page": 376,
       "chapter": 9,
-      "directQuestions": 1,
-      "questionCount": 1,
+      "directQuestions": 2,
+      "questionCount": 2,
       "leaf": true
     },
     {
@@ -3581,7 +3581,7 @@
       "page": 376,
       "chapter": 9,
       "directQuestions": 1,
-      "questionCount": 11,
+      "questionCount": 14,
       "leaf": false
     },
     {
@@ -3590,8 +3590,8 @@
       "level": 6,
       "page": 376,
       "chapter": 9,
-      "directQuestions": 8,
-      "questionCount": 8,
+      "directQuestions": 9,
+      "questionCount": 9,
       "leaf": true
     },
     {
@@ -3600,8 +3600,8 @@
       "level": 6,
       "page": 377,
       "chapter": 9,
-      "directQuestions": 2,
-      "questionCount": 2,
+      "directQuestions": 4,
+      "questionCount": 4,
       "leaf": true
     },
     {
@@ -3611,7 +3611,7 @@
       "page": 377,
       "chapter": 9,
       "directQuestions": 5,
-      "questionCount": 36,
+      "questionCount": 50,
       "leaf": false
     },
     {
@@ -3621,7 +3621,7 @@
       "page": 377,
       "chapter": 9,
       "directQuestions": 2,
-      "questionCount": 10,
+      "questionCount": 14,
       "leaf": false
     },
     {
@@ -3640,8 +3640,8 @@
       "level": 7,
       "page": 377,
       "chapter": 9,
-      "directQuestions": 4,
-      "questionCount": 4,
+      "directQuestions": 8,
+      "questionCount": 8,
       "leaf": true
     },
     {
@@ -3651,7 +3651,7 @@
       "page": 377,
       "chapter": 9,
       "directQuestions": 3,
-      "questionCount": 20,
+      "questionCount": 30,
       "leaf": false
     },
     {
@@ -3660,8 +3660,8 @@
       "level": 7,
       "page": 378,
       "chapter": 9,
-      "directQuestions": 10,
-      "questionCount": 10,
+      "directQuestions": 13,
+      "questionCount": 13,
       "leaf": true
     },
     {
@@ -3670,8 +3670,8 @@
       "level": 7,
       "page": 378,
       "chapter": 9,
-      "directQuestions": 7,
-      "questionCount": 7,
+      "directQuestions": 14,
+      "questionCount": 14,
       "leaf": true
     },
     {
@@ -3691,41 +3691,11 @@
       "page": 378,
       "chapter": 9,
       "directQuestions": 3,
-      "questionCount": 11,
+      "questionCount": 13,
       "leaf": false
     },
     {
       "id": "9.6.24.1",
-      "title": "Signs and Symptoms",
-      "level": 6,
-      "page": 379,
-      "chapter": 9,
-      "directQuestions": 4,
-      "questionCount": 4,
-      "leaf": true
-    },
-    {
-      "id": "9.6.24.2",
-      "title": "Treatment",
-      "level": 6,
-      "page": 379,
-      "chapter": 9,
-      "directQuestions": 4,
-      "questionCount": 4,
-      "leaf": true
-    },
-    {
-      "id": "9.6.25",
-      "title": "Hypoxia",
-      "level": 5,
-      "page": 379,
-      "chapter": 9,
-      "directQuestions": 3,
-      "questionCount": 9,
-      "leaf": false
-    },
-    {
-      "id": "9.6.25.1",
       "title": "Signs and Symptoms",
       "level": 6,
       "page": 379,
@@ -3735,13 +3705,43 @@
       "leaf": true
     },
     {
+      "id": "9.6.24.2",
+      "title": "Treatment",
+      "level": 6,
+      "page": 379,
+      "chapter": 9,
+      "directQuestions": 5,
+      "questionCount": 5,
+      "leaf": true
+    },
+    {
+      "id": "9.6.25",
+      "title": "Hypoxia",
+      "level": 5,
+      "page": 379,
+      "chapter": 9,
+      "directQuestions": 3,
+      "questionCount": 13,
+      "leaf": false
+    },
+    {
+      "id": "9.6.25.1",
+      "title": "Signs and Symptoms",
+      "level": 6,
+      "page": 379,
+      "chapter": 9,
+      "directQuestions": 7,
+      "questionCount": 7,
+      "leaf": true
+    },
+    {
       "id": "9.6.25.2",
       "title": "Treatment",
       "level": 6,
       "page": 379,
       "chapter": 9,
-      "directQuestions": 1,
-      "questionCount": 1,
+      "directQuestions": 3,
+      "questionCount": 3,
       "leaf": true
     },
     {
@@ -3751,7 +3751,7 @@
       "page": 379,
       "chapter": 9,
       "directQuestions": 1,
-      "questionCount": 9,
+      "questionCount": 10,
       "leaf": false
     },
     {
@@ -3760,8 +3760,8 @@
       "level": 6,
       "page": 379,
       "chapter": 9,
-      "directQuestions": 6,
-      "questionCount": 6,
+      "directQuestions": 7,
+      "questionCount": 7,
       "leaf": true
     },
     {
@@ -3781,7 +3781,7 @@
       "page": 380,
       "chapter": 9,
       "directQuestions": 2,
-      "questionCount": 10,
+      "questionCount": 13,
       "leaf": false
     },
     {
@@ -3790,8 +3790,8 @@
       "level": 6,
       "page": 380,
       "chapter": 9,
-      "directQuestions": 2,
-      "questionCount": 2,
+      "directQuestions": 3,
+      "questionCount": 3,
       "leaf": true
     },
     {
@@ -3800,8 +3800,8 @@
       "level": 6,
       "page": 380,
       "chapter": 9,
-      "directQuestions": 6,
-      "questionCount": 6,
+      "directQuestions": 8,
+      "questionCount": 8,
       "leaf": true
     },
     {
@@ -3811,7 +3811,7 @@
       "page": 380,
       "chapter": 9,
       "directQuestions": 1,
-      "questionCount": 5,
+      "questionCount": 6,
       "leaf": false
     },
     {
@@ -3820,8 +3820,8 @@
       "level": 6,
       "page": 380,
       "chapter": 9,
-      "directQuestions": 4,
-      "questionCount": 4,
+      "directQuestions": 5,
+      "questionCount": 5,
       "leaf": true
     },
     {
@@ -3831,7 +3831,7 @@
       "page": 381,
       "chapter": 9,
       "directQuestions": 1,
-      "questionCount": 16,
+      "questionCount": 17,
       "leaf": false
     },
     {
@@ -3840,8 +3840,8 @@
       "level": 6,
       "page": 381,
       "chapter": 9,
-      "directQuestions": 15,
-      "questionCount": 15,
+      "directQuestions": 16,
+      "questionCount": 16,
       "leaf": true
     },
     {
@@ -3851,7 +3851,7 @@
       "page": 381,
       "chapter": 9,
       "directQuestions": 1,
-      "questionCount": 20,
+      "questionCount": 22,
       "leaf": false
     },
     {
@@ -3860,8 +3860,8 @@
       "level": 6,
       "page": 382,
       "chapter": 9,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 6,
+      "questionCount": 6,
       "leaf": true
     },
     {
@@ -3870,8 +3870,8 @@
       "level": 6,
       "page": 382,
       "chapter": 9,
-      "directQuestions": 14,
-      "questionCount": 14,
+      "directQuestions": 15,
+      "questionCount": 15,
       "leaf": true
     },
     {
@@ -3881,7 +3881,7 @@
       "page": 382,
       "chapter": 9,
       "directQuestions": 6,
-      "questionCount": 26,
+      "questionCount": 32,
       "leaf": false
     },
     {
@@ -3890,8 +3890,8 @@
       "level": 6,
       "page": 382,
       "chapter": 9,
-      "directQuestions": 9,
-      "questionCount": 9,
+      "directQuestions": 12,
+      "questionCount": 12,
       "leaf": true
     },
     {
@@ -3900,8 +3900,8 @@
       "level": 6,
       "page": 383,
       "chapter": 9,
-      "directQuestions": 11,
-      "questionCount": 11,
+      "directQuestions": 14,
+      "questionCount": 14,
       "leaf": true
     },
     {
@@ -3911,7 +3911,7 @@
       "page": 383,
       "chapter": 9,
       "directQuestions": 1,
-      "questionCount": 18,
+      "questionCount": 23,
       "leaf": false
     },
     {
@@ -3920,8 +3920,8 @@
       "level": 6,
       "page": 383,
       "chapter": 9,
-      "directQuestions": 7,
-      "questionCount": 7,
+      "directQuestions": 10,
+      "questionCount": 10,
       "leaf": true
     },
     {
@@ -3930,8 +3930,8 @@
       "level": 6,
       "page": 383,
       "chapter": 9,
-      "directQuestions": 10,
-      "questionCount": 10,
+      "directQuestions": 12,
+      "questionCount": 12,
       "leaf": true
     },
     {
@@ -3970,8 +3970,8 @@
       "level": 5,
       "page": 384,
       "chapter": 9,
-      "directQuestions": 1,
-      "questionCount": 11,
+      "directQuestions": 2,
+      "questionCount": 15,
       "leaf": false
     },
     {
@@ -3980,8 +3980,8 @@
       "level": 6,
       "page": 384,
       "chapter": 9,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 7,
+      "questionCount": 7,
       "leaf": true
     },
     {
@@ -3990,8 +3990,8 @@
       "level": 6,
       "page": 385,
       "chapter": 9,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 6,
+      "questionCount": 6,
       "leaf": true
     },
     {
@@ -4001,7 +4001,7 @@
       "page": 385,
       "chapter": 9,
       "directQuestions": 1,
-      "questionCount": 15,
+      "questionCount": 20,
       "leaf": false
     },
     {
@@ -4010,8 +4010,8 @@
       "level": 6,
       "page": 385,
       "chapter": 9,
-      "directQuestions": 6,
-      "questionCount": 6,
+      "directQuestions": 8,
+      "questionCount": 8,
       "leaf": true
     },
     {
@@ -4020,8 +4020,8 @@
       "level": 6,
       "page": 385,
       "chapter": 9,
-      "directQuestions": 8,
-      "questionCount": 8,
+      "directQuestions": 11,
+      "questionCount": 11,
       "leaf": true
     },
     {
@@ -4031,7 +4031,7 @@
       "page": 385,
       "chapter": 9,
       "directQuestions": 1,
-      "questionCount": 17,
+      "questionCount": 18,
       "leaf": false
     },
     {
@@ -4040,8 +4040,8 @@
       "level": 6,
       "page": 386,
       "chapter": 9,
-      "directQuestions": 16,
-      "questionCount": 16,
+      "directQuestions": 17,
+      "questionCount": 17,
       "leaf": true
     },
     {
@@ -4060,8 +4060,8 @@
       "level": 4,
       "page": 389,
       "chapter": 9,
-      "directQuestions": 9,
-      "questionCount": 174,
+      "directQuestions": 15,
+      "questionCount": 201,
       "leaf": false
     },
     {
@@ -4071,7 +4071,7 @@
       "page": 389,
       "chapter": 9,
       "directQuestions": 0,
-      "questionCount": 98,
+      "questionCount": 107,
       "leaf": false
     },
     {
@@ -4090,8 +4090,8 @@
       "level": 6,
       "page": 389,
       "chapter": 9,
-      "directQuestions": 65,
-      "questionCount": 65,
+      "directQuestions": 72,
+      "questionCount": 72,
       "leaf": true
     },
     {
@@ -4110,8 +4110,8 @@
       "level": 6,
       "page": 394,
       "chapter": 9,
-      "directQuestions": 13,
-      "questionCount": 13,
+      "directQuestions": 15,
+      "questionCount": 15,
       "leaf": true
     },
     {
@@ -4121,7 +4121,7 @@
       "page": 394,
       "chapter": 9,
       "directQuestions": 0,
-      "questionCount": 67,
+      "questionCount": 79,
       "leaf": false
     },
     {
@@ -4140,8 +4140,8 @@
       "level": 6,
       "page": 395,
       "chapter": 9,
-      "directQuestions": 48,
-      "questionCount": 48,
+      "directQuestions": 58,
+      "questionCount": 58,
       "leaf": true
     },
     {
@@ -4160,8 +4160,8 @@
       "level": 6,
       "page": 397,
       "chapter": 9,
-      "directQuestions": 4,
-      "questionCount": 4,
+      "directQuestions": 6,
+      "questionCount": 6,
       "leaf": true
     },
     {
@@ -4180,8 +4180,8 @@
       "level": 4,
       "page": 401,
       "chapter": 9,
-      "directQuestions": 9,
-      "questionCount": 9,
+      "directQuestions": 10,
+      "questionCount": 10,
       "leaf": true
     },
     {
@@ -4191,7 +4191,7 @@
       "page": 405,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 631,
+      "questionCount": 789,
       "leaf": false
     },
     {
@@ -4201,7 +4201,7 @@
       "page": 405,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 91,
+      "questionCount": 141,
       "leaf": false
     },
     {
@@ -4210,8 +4210,8 @@
       "level": 6,
       "page": 405,
       "chapter": 10,
-      "directQuestions": 47,
-      "questionCount": 47,
+      "directQuestions": 72,
+      "questionCount": 72,
       "leaf": true
     },
     {
@@ -4220,8 +4220,8 @@
       "level": 6,
       "page": 409,
       "chapter": 10,
-      "directQuestions": 44,
-      "questionCount": 44,
+      "directQuestions": 69,
+      "questionCount": 69,
       "leaf": true
     },
     {
@@ -4231,7 +4231,7 @@
       "page": 412,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 291,
+      "questionCount": 323,
       "leaf": false
     },
     {
@@ -4241,7 +4241,7 @@
       "page": 412,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 169,
+      "questionCount": 187,
       "leaf": false
     },
     {
@@ -4261,7 +4261,7 @@
       "page": 413,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 56,
+      "questionCount": 61,
       "leaf": false
     },
     {
@@ -4300,8 +4300,8 @@
       "level": 8,
       "page": 413,
       "chapter": 10,
-      "directQuestions": 31,
-      "questionCount": 31,
+      "directQuestions": 36,
+      "questionCount": 36,
       "leaf": true
     },
     {
@@ -4311,7 +4311,7 @@
       "page": 414,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 43,
+      "questionCount": 47,
       "leaf": false
     },
     {
@@ -4350,8 +4350,8 @@
       "level": 8,
       "page": 415,
       "chapter": 10,
-      "directQuestions": 25,
-      "questionCount": 25,
+      "directQuestions": 29,
+      "questionCount": 29,
       "leaf": true
     },
     {
@@ -4361,7 +4361,7 @@
       "page": 416,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 54,
+      "questionCount": 60,
       "leaf": false
     },
     {
@@ -4380,8 +4380,8 @@
       "level": 8,
       "page": 416,
       "chapter": 10,
-      "directQuestions": 46,
-      "questionCount": 46,
+      "directQuestions": 52,
+      "questionCount": 52,
       "leaf": true
     },
     {
@@ -4400,8 +4400,8 @@
       "level": 7,
       "page": 418,
       "chapter": 10,
-      "directQuestions": 9,
-      "questionCount": 9,
+      "directQuestions": 12,
+      "questionCount": 12,
       "leaf": true
     },
     {
@@ -4411,7 +4411,7 @@
       "page": 419,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 122,
+      "questionCount": 136,
       "leaf": false
     },
     {
@@ -4431,7 +4431,7 @@
       "page": 419,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 57,
+      "questionCount": 62,
       "leaf": false
     },
     {
@@ -4470,8 +4470,8 @@
       "level": 8,
       "page": 420,
       "chapter": 10,
-      "directQuestions": 32,
-      "questionCount": 32,
+      "directQuestions": 37,
+      "questionCount": 37,
       "leaf": true
     },
     {
@@ -4481,7 +4481,7 @@
       "page": 421,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 51,
+      "questionCount": 57,
       "leaf": false
     },
     {
@@ -4500,8 +4500,8 @@
       "level": 8,
       "page": 422,
       "chapter": 10,
-      "directQuestions": 44,
-      "questionCount": 44,
+      "directQuestions": 50,
+      "questionCount": 50,
       "leaf": true
     },
     {
@@ -4520,8 +4520,8 @@
       "level": 7,
       "page": 423,
       "chapter": 10,
-      "directQuestions": 9,
-      "questionCount": 9,
+      "directQuestions": 12,
+      "questionCount": 12,
       "leaf": true
     },
     {
@@ -4531,7 +4531,7 @@
       "page": 424,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 98,
+      "questionCount": 134,
       "leaf": false
     },
     {
@@ -4541,7 +4541,7 @@
       "page": 424,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 7,
+      "questionCount": 12,
       "leaf": false
     },
     {
@@ -4550,8 +4550,8 @@
       "level": 7,
       "page": 424,
       "chapter": 10,
-      "directQuestions": 3,
-      "questionCount": 3,
+      "directQuestions": 5,
+      "questionCount": 5,
       "leaf": true
     },
     {
@@ -4560,8 +4560,8 @@
       "level": 7,
       "page": 424,
       "chapter": 10,
-      "directQuestions": 3,
-      "questionCount": 3,
+      "directQuestions": 5,
+      "questionCount": 5,
       "leaf": true
     },
     {
@@ -4570,8 +4570,8 @@
       "level": 7,
       "page": 424,
       "chapter": 10,
-      "directQuestions": 1,
-      "questionCount": 1,
+      "directQuestions": 2,
+      "questionCount": 2,
       "leaf": true
     },
     {
@@ -4581,7 +4581,7 @@
       "page": 425,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 91,
+      "questionCount": 122,
       "leaf": false
     },
     {
@@ -4591,7 +4591,7 @@
       "page": 425,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 50,
+      "questionCount": 66,
       "leaf": false
     },
     {
@@ -4600,8 +4600,8 @@
       "level": 8,
       "page": 425,
       "chapter": 10,
-      "directQuestions": 25,
-      "questionCount": 25,
+      "directQuestions": 33,
+      "questionCount": 33,
       "leaf": true
     },
     {
@@ -4610,8 +4610,8 @@
       "level": 8,
       "page": 425,
       "chapter": 10,
-      "directQuestions": 25,
-      "questionCount": 25,
+      "directQuestions": 33,
+      "questionCount": 33,
       "leaf": true
     },
     {
@@ -4621,7 +4621,7 @@
       "page": 426,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 41,
+      "questionCount": 56,
       "leaf": false
     },
     {
@@ -4630,8 +4630,8 @@
       "level": 8,
       "page": 426,
       "chapter": 10,
-      "directQuestions": 25,
-      "questionCount": 25,
+      "directQuestions": 33,
+      "questionCount": 33,
       "leaf": true
     },
     {
@@ -4640,8 +4640,8 @@
       "level": 8,
       "page": 427,
       "chapter": 10,
-      "directQuestions": 16,
-      "questionCount": 16,
+      "directQuestions": 23,
+      "questionCount": 23,
       "leaf": true
     },
     {
@@ -4651,7 +4651,7 @@
       "page": 428,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 108,
+      "questionCount": 140,
       "leaf": false
     },
     {
@@ -4661,7 +4661,7 @@
       "page": 428,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 12,
+      "questionCount": 16,
       "leaf": false
     },
     {
@@ -4670,8 +4670,8 @@
       "level": 7,
       "page": 428,
       "chapter": 10,
-      "directQuestions": 6,
-      "questionCount": 6,
+      "directQuestions": 7,
+      "questionCount": 7,
       "leaf": true
     },
     {
@@ -4680,8 +4680,8 @@
       "level": 7,
       "page": 428,
       "chapter": 10,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 7,
+      "questionCount": 7,
       "leaf": true
     },
     {
@@ -4690,8 +4690,8 @@
       "level": 7,
       "page": 428,
       "chapter": 10,
-      "directQuestions": 1,
-      "questionCount": 1,
+      "directQuestions": 2,
+      "questionCount": 2,
       "leaf": true
     },
     {
@@ -4701,7 +4701,7 @@
       "page": 428,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 96,
+      "questionCount": 124,
       "leaf": false
     },
     {
@@ -4711,7 +4711,7 @@
       "page": 428,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 52,
+      "questionCount": 66,
       "leaf": false
     },
     {
@@ -4720,8 +4720,8 @@
       "level": 8,
       "page": 428,
       "chapter": 10,
-      "directQuestions": 27,
-      "questionCount": 27,
+      "directQuestions": 34,
+      "questionCount": 34,
       "leaf": true
     },
     {
@@ -4730,8 +4730,8 @@
       "level": 8,
       "page": 429,
       "chapter": 10,
-      "directQuestions": 25,
-      "questionCount": 25,
+      "directQuestions": 32,
+      "questionCount": 32,
       "leaf": true
     },
     {
@@ -4741,7 +4741,7 @@
       "page": 430,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 44,
+      "questionCount": 58,
       "leaf": false
     },
     {
@@ -4750,8 +4750,8 @@
       "level": 8,
       "page": 430,
       "chapter": 10,
-      "directQuestions": 27,
-      "questionCount": 27,
+      "directQuestions": 34,
+      "questionCount": 34,
       "leaf": true
     },
     {
@@ -4760,8 +4760,8 @@
       "level": 8,
       "page": 431,
       "chapter": 10,
-      "directQuestions": 17,
-      "questionCount": 17,
+      "directQuestions": 24,
+      "questionCount": 24,
       "leaf": true
     },
     {
@@ -4771,7 +4771,7 @@
       "page": 432,
       "chapter": 10,
       "directQuestions": 1,
-      "questionCount": 22,
+      "questionCount": 24,
       "leaf": false
     },
     {
@@ -4780,8 +4780,8 @@
       "level": 6,
       "page": 432,
       "chapter": 10,
-      "directQuestions": 18,
-      "questionCount": 18,
+      "directQuestions": 20,
+      "questionCount": 20,
       "leaf": true
     },
     {
@@ -4831,7 +4831,7 @@
       "page": 434,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 16,
+      "questionCount": 22,
       "leaf": false
     },
     {
@@ -4841,7 +4841,7 @@
       "page": 434,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 16,
+      "questionCount": 22,
       "leaf": false
     },
     {
@@ -4850,8 +4850,8 @@
       "level": 7,
       "page": 434,
       "chapter": 10,
-      "directQuestions": 14,
-      "questionCount": 14,
+      "directQuestions": 20,
+      "questionCount": 20,
       "leaf": true
     },
     {
@@ -4881,7 +4881,7 @@
       "page": 435,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 414,
+      "questionCount": 534,
       "leaf": false
     },
     {
@@ -4890,8 +4890,8 @@
       "level": 5,
       "page": 435,
       "chapter": 10,
-      "directQuestions": 104,
-      "questionCount": 104,
+      "directQuestions": 133,
+      "questionCount": 133,
       "leaf": true
     },
     {
@@ -4901,7 +4901,7 @@
       "page": 443,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 105,
+      "questionCount": 117,
       "leaf": false
     },
     {
@@ -4921,7 +4921,7 @@
       "page": 444,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 41,
+      "questionCount": 46,
       "leaf": false
     },
     {
@@ -4960,8 +4960,8 @@
       "level": 7,
       "page": 444,
       "chapter": 10,
-      "directQuestions": 23,
-      "questionCount": 23,
+      "directQuestions": 28,
+      "questionCount": 28,
       "leaf": true
     },
     {
@@ -4971,7 +4971,7 @@
       "page": 446,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 44,
+      "questionCount": 49,
       "leaf": false
     },
     {
@@ -5010,8 +5010,8 @@
       "level": 7,
       "page": 446,
       "chapter": 10,
-      "directQuestions": 26,
-      "questionCount": 26,
+      "directQuestions": 31,
+      "questionCount": 31,
       "leaf": true
     },
     {
@@ -5030,8 +5030,8 @@
       "level": 6,
       "page": 447,
       "chapter": 10,
-      "directQuestions": 11,
-      "questionCount": 11,
+      "directQuestions": 13,
+      "questionCount": 13,
       "leaf": true
     },
     {
@@ -5041,7 +5041,7 @@
       "page": 448,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 59,
+      "questionCount": 92,
       "leaf": false
     },
     {
@@ -5070,8 +5070,8 @@
       "level": 6,
       "page": 449,
       "chapter": 10,
-      "directQuestions": 7,
-      "questionCount": 7,
+      "directQuestions": 8,
+      "questionCount": 8,
       "leaf": true
     },
     {
@@ -5091,7 +5091,7 @@
       "page": 450,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 28,
+      "questionCount": 53,
       "leaf": false
     },
     {
@@ -5100,8 +5100,8 @@
       "level": 7,
       "page": 450,
       "chapter": 10,
-      "directQuestions": 22,
-      "questionCount": 22,
+      "directQuestions": 47,
+      "questionCount": 47,
       "leaf": true
     },
     {
@@ -5150,8 +5150,8 @@
       "level": 6,
       "page": 452,
       "chapter": 10,
-      "directQuestions": 9,
-      "questionCount": 9,
+      "directQuestions": 10,
+      "questionCount": 10,
       "leaf": true
     },
     {
@@ -5160,8 +5160,8 @@
       "level": 6,
       "page": 452,
       "chapter": 10,
-      "directQuestions": 4,
-      "questionCount": 4,
+      "directQuestions": 10,
+      "questionCount": 10,
       "leaf": true
     },
     {
@@ -5171,7 +5171,7 @@
       "page": 452,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 38,
+      "questionCount": 57,
       "leaf": false
     },
     {
@@ -5181,7 +5181,7 @@
       "page": 452,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 7,
+      "questionCount": 14,
       "leaf": false
     },
     {
@@ -5190,8 +5190,8 @@
       "level": 7,
       "page": 452,
       "chapter": 10,
-      "directQuestions": 3,
-      "questionCount": 3,
+      "directQuestions": 6,
+      "questionCount": 6,
       "leaf": true
     },
     {
@@ -5200,8 +5200,8 @@
       "level": 7,
       "page": 452,
       "chapter": 10,
-      "directQuestions": 3,
-      "questionCount": 3,
+      "directQuestions": 6,
+      "questionCount": 6,
       "leaf": true
     },
     {
@@ -5210,8 +5210,8 @@
       "level": 7,
       "page": 452,
       "chapter": 10,
-      "directQuestions": 1,
-      "questionCount": 1,
+      "directQuestions": 2,
+      "questionCount": 2,
       "leaf": true
     },
     {
@@ -5221,7 +5221,7 @@
       "page": 453,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 31,
+      "questionCount": 43,
       "leaf": false
     },
     {
@@ -5230,8 +5230,8 @@
       "level": 7,
       "page": 453,
       "chapter": 10,
-      "directQuestions": 21,
-      "questionCount": 21,
+      "directQuestions": 29,
+      "questionCount": 29,
       "leaf": true
     },
     {
@@ -5240,8 +5240,8 @@
       "level": 7,
       "page": 454,
       "chapter": 10,
-      "directQuestions": 10,
-      "questionCount": 10,
+      "directQuestions": 14,
+      "questionCount": 14,
       "leaf": true
     },
     {
@@ -5251,7 +5251,7 @@
       "page": 454,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 51,
+      "questionCount": 68,
       "leaf": false
     },
     {
@@ -5261,7 +5261,7 @@
       "page": 454,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 11,
+      "questionCount": 14,
       "leaf": false
     },
     {
@@ -5270,8 +5270,8 @@
       "level": 7,
       "page": 454,
       "chapter": 10,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 6,
+      "questionCount": 6,
       "leaf": true
     },
     {
@@ -5280,8 +5280,8 @@
       "level": 7,
       "page": 454,
       "chapter": 10,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 6,
+      "questionCount": 6,
       "leaf": true
     },
     {
@@ -5290,8 +5290,8 @@
       "level": 7,
       "page": 454,
       "chapter": 10,
-      "directQuestions": 1,
-      "questionCount": 1,
+      "directQuestions": 2,
+      "questionCount": 2,
       "leaf": true
     },
     {
@@ -5301,7 +5301,7 @@
       "page": 455,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 40,
+      "questionCount": 54,
       "leaf": false
     },
     {
@@ -5310,8 +5310,8 @@
       "level": 7,
       "page": 455,
       "chapter": 10,
-      "directQuestions": 23,
-      "questionCount": 23,
+      "directQuestions": 30,
+      "questionCount": 30,
       "leaf": true
     },
     {
@@ -5320,8 +5320,8 @@
       "level": 7,
       "page": 456,
       "chapter": 10,
-      "directQuestions": 10,
-      "questionCount": 10,
+      "directQuestions": 13,
+      "questionCount": 13,
       "leaf": true
     },
     {
@@ -5330,8 +5330,8 @@
       "level": 7,
       "page": 456,
       "chapter": 10,
-      "directQuestions": 7,
-      "questionCount": 7,
+      "directQuestions": 11,
+      "questionCount": 11,
       "leaf": true
     },
     {
@@ -5341,7 +5341,7 @@
       "page": 456,
       "chapter": 10,
       "directQuestions": 1,
-      "questionCount": 22,
+      "questionCount": 24,
       "leaf": false
     },
     {
@@ -5350,8 +5350,8 @@
       "level": 6,
       "page": 456,
       "chapter": 10,
-      "directQuestions": 17,
-      "questionCount": 17,
+      "directQuestions": 19,
+      "questionCount": 19,
       "leaf": true
     },
     {
@@ -5401,7 +5401,7 @@
       "page": 459,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 28,
+      "questionCount": 36,
       "leaf": false
     },
     {
@@ -5411,7 +5411,7 @@
       "page": 459,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 28,
+      "questionCount": 36,
       "leaf": false
     },
     {
@@ -5420,8 +5420,8 @@
       "level": 7,
       "page": 459,
       "chapter": 10,
-      "directQuestions": 14,
-      "questionCount": 14,
+      "directQuestions": 18,
+      "questionCount": 18,
       "leaf": true
     },
     {
@@ -5430,8 +5430,8 @@
       "level": 7,
       "page": 459,
       "chapter": 10,
-      "directQuestions": 12,
-      "questionCount": 12,
+      "directQuestions": 16,
+      "questionCount": 16,
       "leaf": true
     },
     {
@@ -5461,7 +5461,7 @@
       "page": 461,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 560,
+      "questionCount": 735,
       "leaf": false
     },
     {
@@ -5471,7 +5471,7 @@
       "page": 461,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 132,
+      "questionCount": 189,
       "leaf": false
     },
     {
@@ -5480,8 +5480,8 @@
       "level": 6,
       "page": 461,
       "chapter": 10,
-      "directQuestions": 66,
-      "questionCount": 66,
+      "directQuestions": 94,
+      "questionCount": 94,
       "leaf": true
     },
     {
@@ -5490,8 +5490,8 @@
       "level": 6,
       "page": 466,
       "chapter": 10,
-      "directQuestions": 66,
-      "questionCount": 66,
+      "directQuestions": 95,
+      "questionCount": 95,
       "leaf": true
     },
     {
@@ -5501,7 +5501,7 @@
       "page": 470,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 95,
+      "questionCount": 105,
       "leaf": false
     },
     {
@@ -5521,7 +5521,7 @@
       "page": 471,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 40,
+      "questionCount": 45,
       "leaf": false
     },
     {
@@ -5560,8 +5560,8 @@
       "level": 7,
       "page": 471,
       "chapter": 10,
-      "directQuestions": 21,
-      "questionCount": 21,
+      "directQuestions": 26,
+      "questionCount": 26,
       "leaf": true
     },
     {
@@ -5571,7 +5571,7 @@
       "page": 472,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 38,
+      "questionCount": 43,
       "leaf": false
     },
     {
@@ -5610,8 +5610,8 @@
       "level": 7,
       "page": 472,
       "chapter": 10,
-      "directQuestions": 19,
-      "questionCount": 19,
+      "directQuestions": 24,
+      "questionCount": 24,
       "leaf": true
     },
     {
@@ -5661,7 +5661,7 @@
       "page": 476,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 52,
+      "questionCount": 96,
       "leaf": false
     },
     {
@@ -5690,8 +5690,8 @@
       "level": 6,
       "page": 478,
       "chapter": 10,
-      "directQuestions": 6,
-      "questionCount": 6,
+      "directQuestions": 7,
+      "questionCount": 7,
       "leaf": true
     },
     {
@@ -5711,7 +5711,7 @@
       "page": 479,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 24,
+      "questionCount": 50,
       "leaf": false
     },
     {
@@ -5720,8 +5720,8 @@
       "level": 7,
       "page": 479,
       "chapter": 10,
-      "directQuestions": 21,
-      "questionCount": 21,
+      "directQuestions": 47,
+      "questionCount": 47,
       "leaf": true
     },
     {
@@ -5750,8 +5750,8 @@
       "level": 6,
       "page": 480,
       "chapter": 10,
-      "directQuestions": 11,
-      "questionCount": 11,
+      "directQuestions": 28,
+      "questionCount": 28,
       "leaf": true
     },
     {
@@ -5761,7 +5761,7 @@
       "page": 480,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 38,
+      "questionCount": 58,
       "leaf": false
     },
     {
@@ -5771,7 +5771,7 @@
       "page": 480,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 7,
+      "questionCount": 14,
       "leaf": false
     },
     {
@@ -5780,8 +5780,8 @@
       "level": 7,
       "page": 480,
       "chapter": 10,
-      "directQuestions": 3,
-      "questionCount": 3,
+      "directQuestions": 6,
+      "questionCount": 6,
       "leaf": true
     },
     {
@@ -5790,8 +5790,8 @@
       "level": 7,
       "page": 480,
       "chapter": 10,
-      "directQuestions": 3,
-      "questionCount": 3,
+      "directQuestions": 6,
+      "questionCount": 6,
       "leaf": true
     },
     {
@@ -5800,8 +5800,8 @@
       "level": 7,
       "page": 481,
       "chapter": 10,
-      "directQuestions": 1,
-      "questionCount": 1,
+      "directQuestions": 2,
+      "questionCount": 2,
       "leaf": true
     },
     {
@@ -5811,7 +5811,7 @@
       "page": 481,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 31,
+      "questionCount": 44,
       "leaf": false
     },
     {
@@ -5820,8 +5820,8 @@
       "level": 7,
       "page": 481,
       "chapter": 10,
-      "directQuestions": 20,
-      "questionCount": 20,
+      "directQuestions": 28,
+      "questionCount": 28,
       "leaf": true
     },
     {
@@ -5830,8 +5830,8 @@
       "level": 7,
       "page": 482,
       "chapter": 10,
-      "directQuestions": 11,
-      "questionCount": 11,
+      "directQuestions": 16,
+      "questionCount": 16,
       "leaf": true
     },
     {
@@ -5841,7 +5841,7 @@
       "page": 482,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 43,
+      "questionCount": 57,
       "leaf": false
     },
     {
@@ -5851,7 +5851,7 @@
       "page": 482,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 11,
+      "questionCount": 14,
       "leaf": false
     },
     {
@@ -5860,8 +5860,8 @@
       "level": 7,
       "page": 482,
       "chapter": 10,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 6,
+      "questionCount": 6,
       "leaf": true
     },
     {
@@ -5870,8 +5870,8 @@
       "level": 7,
       "page": 482,
       "chapter": 10,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 6,
+      "questionCount": 6,
       "leaf": true
     },
     {
@@ -5880,8 +5880,8 @@
       "level": 7,
       "page": 482,
       "chapter": 10,
-      "directQuestions": 1,
-      "questionCount": 1,
+      "directQuestions": 2,
+      "questionCount": 2,
       "leaf": true
     },
     {
@@ -5891,7 +5891,7 @@
       "page": 483,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 32,
+      "questionCount": 43,
       "leaf": false
     },
     {
@@ -5900,8 +5900,8 @@
       "level": 7,
       "page": 483,
       "chapter": 10,
-      "directQuestions": 23,
-      "questionCount": 23,
+      "directQuestions": 30,
+      "questionCount": 30,
       "leaf": true
     },
     {
@@ -5910,8 +5910,8 @@
       "level": 7,
       "page": 483,
       "chapter": 10,
-      "directQuestions": 9,
-      "questionCount": 9,
+      "directQuestions": 13,
+      "questionCount": 13,
       "leaf": true
     },
     {
@@ -5921,7 +5921,7 @@
       "page": 484,
       "chapter": 10,
       "directQuestions": 1,
-      "questionCount": 21,
+      "questionCount": 22,
       "leaf": false
     },
     {
@@ -5930,8 +5930,8 @@
       "level": 6,
       "page": 484,
       "chapter": 10,
-      "directQuestions": 17,
-      "questionCount": 17,
+      "directQuestions": 18,
+      "questionCount": 18,
       "leaf": true
     },
     {
@@ -5981,7 +5981,7 @@
       "page": 486,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 26,
+      "questionCount": 34,
       "leaf": false
     },
     {
@@ -5991,7 +5991,7 @@
       "page": 486,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 26,
+      "questionCount": 34,
       "leaf": false
     },
     {
@@ -6000,8 +6000,8 @@
       "level": 7,
       "page": 486,
       "chapter": 10,
-      "directQuestions": 13,
-      "questionCount": 13,
+      "directQuestions": 17,
+      "questionCount": 17,
       "leaf": true
     },
     {
@@ -6010,8 +6010,8 @@
       "level": 7,
       "page": 486,
       "chapter": 10,
-      "directQuestions": 11,
-      "questionCount": 11,
+      "directQuestions": 15,
+      "questionCount": 15,
       "leaf": true
     },
     {
@@ -6041,7 +6041,7 @@
       "page": 487,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 72,
+      "questionCount": 81,
       "leaf": false
     },
     {
@@ -6050,8 +6050,8 @@
       "level": 6,
       "page": 487,
       "chapter": 10,
-      "directQuestions": 25,
-      "questionCount": 25,
+      "directQuestions": 26,
+      "questionCount": 26,
       "leaf": true
     },
     {
@@ -6070,8 +6070,8 @@
       "level": 6,
       "page": 492,
       "chapter": 10,
-      "directQuestions": 4,
-      "questionCount": 4,
+      "directQuestions": 5,
+      "questionCount": 5,
       "leaf": true
     },
     {
@@ -6080,8 +6080,8 @@
       "level": 6,
       "page": 492,
       "chapter": 10,
-      "directQuestions": 42,
-      "questionCount": 42,
+      "directQuestions": 49,
+      "questionCount": 49,
       "leaf": true
     },
     {
@@ -6091,7 +6091,7 @@
       "page": 493,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 74,
+      "questionCount": 86,
       "leaf": false
     },
     {
@@ -6110,8 +6110,8 @@
       "level": 6,
       "page": 493,
       "chapter": 10,
-      "directQuestions": 26,
-      "questionCount": 26,
+      "directQuestions": 30,
+      "questionCount": 30,
       "leaf": true
     },
     {
@@ -6130,8 +6130,8 @@
       "level": 6,
       "page": 498,
       "chapter": 10,
-      "directQuestions": 4,
-      "questionCount": 4,
+      "directQuestions": 5,
+      "questionCount": 5,
       "leaf": true
     },
     {
@@ -6140,8 +6140,8 @@
       "level": 6,
       "page": 498,
       "chapter": 10,
-      "directQuestions": 38,
-      "questionCount": 38,
+      "directQuestions": 45,
+      "questionCount": 45,
       "leaf": true
     },
     {
@@ -6151,7 +6151,7 @@
       "page": 501,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 679,
+      "questionCount": 875,
       "leaf": false
     },
     {
@@ -6161,7 +6161,7 @@
       "page": 501,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 213,
+      "questionCount": 291,
       "leaf": false
     },
     {
@@ -6170,8 +6170,8 @@
       "level": 6,
       "page": 501,
       "chapter": 10,
-      "directQuestions": 57,
-      "questionCount": 57,
+      "directQuestions": 82,
+      "questionCount": 82,
       "leaf": true
     },
     {
@@ -6180,8 +6180,8 @@
       "level": 6,
       "page": 505,
       "chapter": 10,
-      "directQuestions": 82,
-      "questionCount": 82,
+      "directQuestions": 109,
+      "questionCount": 109,
       "leaf": true
     },
     {
@@ -6190,8 +6190,8 @@
       "level": 6,
       "page": 511,
       "chapter": 10,
-      "directQuestions": 74,
-      "questionCount": 74,
+      "directQuestions": 100,
+      "questionCount": 100,
       "leaf": true
     },
     {
@@ -6201,7 +6201,7 @@
       "page": 516,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 88,
+      "questionCount": 107,
       "leaf": false
     },
     {
@@ -6210,8 +6210,8 @@
       "level": 6,
       "page": 516,
       "chapter": 10,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 6,
+      "questionCount": 6,
       "leaf": true
     },
     {
@@ -6221,7 +6221,7 @@
       "page": 516,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 31,
+      "questionCount": 38,
       "leaf": false
     },
     {
@@ -6230,8 +6230,8 @@
       "level": 7,
       "page": 516,
       "chapter": 10,
-      "directQuestions": 1,
-      "questionCount": 1,
+      "directQuestions": 2,
+      "questionCount": 2,
       "leaf": true
     },
     {
@@ -6260,8 +6260,8 @@
       "level": 7,
       "page": 517,
       "chapter": 10,
-      "directQuestions": 22,
-      "questionCount": 22,
+      "directQuestions": 28,
+      "questionCount": 28,
       "leaf": true
     },
     {
@@ -6271,7 +6271,7 @@
       "page": 518,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 42,
+      "questionCount": 51,
       "leaf": false
     },
     {
@@ -6310,8 +6310,8 @@
       "level": 7,
       "page": 519,
       "chapter": 10,
-      "directQuestions": 36,
-      "questionCount": 36,
+      "directQuestions": 45,
+      "questionCount": 45,
       "leaf": true
     },
     {
@@ -6330,8 +6330,8 @@
       "level": 6,
       "page": 521,
       "chapter": 10,
-      "directQuestions": 9,
-      "questionCount": 9,
+      "directQuestions": 11,
+      "questionCount": 11,
       "leaf": true
     },
     {
@@ -6341,7 +6341,7 @@
       "page": 522,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 63,
+      "questionCount": 102,
       "leaf": false
     },
     {
@@ -6370,8 +6370,8 @@
       "level": 6,
       "page": 522,
       "chapter": 10,
-      "directQuestions": 6,
-      "questionCount": 6,
+      "directQuestions": 7,
+      "questionCount": 7,
       "leaf": true
     },
     {
@@ -6391,7 +6391,7 @@
       "page": 523,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 25,
+      "questionCount": 47,
       "leaf": false
     },
     {
@@ -6400,8 +6400,8 @@
       "level": 7,
       "page": 523,
       "chapter": 10,
-      "directQuestions": 20,
-      "questionCount": 20,
+      "directQuestions": 42,
+      "questionCount": 42,
       "leaf": true
     },
     {
@@ -6440,8 +6440,8 @@
       "level": 6,
       "page": 524,
       "chapter": 10,
-      "directQuestions": 9,
-      "questionCount": 9,
+      "directQuestions": 11,
+      "questionCount": 11,
       "leaf": true
     },
     {
@@ -6450,8 +6450,8 @@
       "level": 6,
       "page": 525,
       "chapter": 10,
-      "directQuestions": 11,
-      "questionCount": 11,
+      "directQuestions": 25,
+      "questionCount": 25,
       "leaf": true
     },
     {
@@ -6461,7 +6461,7 @@
       "page": 525,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 34,
+      "questionCount": 53,
       "leaf": false
     },
     {
@@ -6471,7 +6471,7 @@
       "page": 525,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 7,
+      "questionCount": 14,
       "leaf": false
     },
     {
@@ -6480,8 +6480,8 @@
       "level": 7,
       "page": 525,
       "chapter": 10,
-      "directQuestions": 3,
-      "questionCount": 3,
+      "directQuestions": 6,
+      "questionCount": 6,
       "leaf": true
     },
     {
@@ -6490,8 +6490,8 @@
       "level": 7,
       "page": 525,
       "chapter": 10,
-      "directQuestions": 3,
-      "questionCount": 3,
+      "directQuestions": 6,
+      "questionCount": 6,
       "leaf": true
     },
     {
@@ -6500,8 +6500,8 @@
       "level": 7,
       "page": 525,
       "chapter": 10,
-      "directQuestions": 1,
-      "questionCount": 1,
+      "directQuestions": 2,
+      "questionCount": 2,
       "leaf": true
     },
     {
@@ -6511,7 +6511,7 @@
       "page": 526,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 27,
+      "questionCount": 39,
       "leaf": false
     },
     {
@@ -6520,8 +6520,8 @@
       "level": 7,
       "page": 526,
       "chapter": 10,
-      "directQuestions": 19,
-      "questionCount": 19,
+      "directQuestions": 27,
+      "questionCount": 27,
       "leaf": true
     },
     {
@@ -6530,8 +6530,8 @@
       "level": 7,
       "page": 527,
       "chapter": 10,
-      "directQuestions": 8,
-      "questionCount": 8,
+      "directQuestions": 12,
+      "questionCount": 12,
       "leaf": true
     },
     {
@@ -6541,7 +6541,7 @@
       "page": 527,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 46,
+      "questionCount": 64,
       "leaf": false
     },
     {
@@ -6551,7 +6551,7 @@
       "page": 527,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 11,
+      "questionCount": 14,
       "leaf": false
     },
     {
@@ -6560,8 +6560,8 @@
       "level": 7,
       "page": 527,
       "chapter": 10,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 6,
+      "questionCount": 6,
       "leaf": true
     },
     {
@@ -6570,8 +6570,8 @@
       "level": 7,
       "page": 527,
       "chapter": 10,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 6,
+      "questionCount": 6,
       "leaf": true
     },
     {
@@ -6580,8 +6580,8 @@
       "level": 7,
       "page": 527,
       "chapter": 10,
-      "directQuestions": 1,
-      "questionCount": 1,
+      "directQuestions": 2,
+      "questionCount": 2,
       "leaf": true
     },
     {
@@ -6591,7 +6591,7 @@
       "page": 528,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 35,
+      "questionCount": 50,
       "leaf": false
     },
     {
@@ -6600,8 +6600,8 @@
       "level": 7,
       "page": 528,
       "chapter": 10,
-      "directQuestions": 20,
-      "questionCount": 20,
+      "directQuestions": 27,
+      "questionCount": 27,
       "leaf": true
     },
     {
@@ -6610,8 +6610,8 @@
       "level": 7,
       "page": 528,
       "chapter": 10,
-      "directQuestions": 9,
-      "questionCount": 9,
+      "directQuestions": 13,
+      "questionCount": 13,
       "leaf": true
     },
     {
@@ -6620,8 +6620,8 @@
       "level": 7,
       "page": 529,
       "chapter": 10,
-      "directQuestions": 6,
-      "questionCount": 6,
+      "directQuestions": 10,
+      "questionCount": 10,
       "leaf": true
     },
     {
@@ -6701,7 +6701,7 @@
       "page": 533,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 94,
+      "questionCount": 104,
       "leaf": false
     },
     {
@@ -6721,7 +6721,7 @@
       "page": 533,
       "chapter": 10,
       "directQuestions": 2,
-      "questionCount": 25,
+      "questionCount": 28,
       "leaf": false
     },
     {
@@ -6730,8 +6730,8 @@
       "level": 7,
       "page": 533,
       "chapter": 10,
-      "directQuestions": 11,
-      "questionCount": 11,
+      "directQuestions": 13,
+      "questionCount": 13,
       "leaf": true
     },
     {
@@ -6740,8 +6740,8 @@
       "level": 7,
       "page": 536,
       "chapter": 10,
-      "directQuestions": 4,
-      "questionCount": 4,
+      "directQuestions": 5,
+      "questionCount": 5,
       "leaf": true
     },
     {
@@ -6770,8 +6770,8 @@
       "level": 6,
       "page": 539,
       "chapter": 10,
-      "directQuestions": 8,
-      "questionCount": 8,
+      "directQuestions": 9,
+      "questionCount": 9,
       "leaf": true
     },
     {
@@ -6780,8 +6780,8 @@
       "level": 6,
       "page": 539,
       "chapter": 10,
-      "directQuestions": 53,
-      "questionCount": 53,
+      "directQuestions": 59,
+      "questionCount": 59,
       "leaf": true
     },
     {
@@ -6791,7 +6791,7 @@
       "page": 541,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 94,
+      "questionCount": 107,
       "leaf": false
     },
     {
@@ -6810,8 +6810,8 @@
       "level": 6,
       "page": 541,
       "chapter": 10,
-      "directQuestions": 8,
-      "questionCount": 8,
+      "directQuestions": 9,
+      "questionCount": 9,
       "leaf": true
     },
     {
@@ -6821,7 +6821,7 @@
       "page": 541,
       "chapter": 10,
       "directQuestions": 1,
-      "questionCount": 21,
+      "questionCount": 23,
       "leaf": false
     },
     {
@@ -6830,8 +6830,8 @@
       "level": 7,
       "page": 541,
       "chapter": 10,
-      "directQuestions": 9,
-      "questionCount": 9,
+      "directQuestions": 10,
+      "questionCount": 10,
       "leaf": true
     },
     {
@@ -6840,8 +6840,8 @@
       "level": 7,
       "page": 543,
       "chapter": 10,
-      "directQuestions": 4,
-      "questionCount": 4,
+      "directQuestions": 5,
+      "questionCount": 5,
       "leaf": true
     },
     {
@@ -6870,8 +6870,8 @@
       "level": 6,
       "page": 546,
       "chapter": 10,
-      "directQuestions": 8,
-      "questionCount": 8,
+      "directQuestions": 9,
+      "questionCount": 9,
       "leaf": true
     },
     {
@@ -6880,8 +6880,8 @@
       "level": 6,
       "page": 546,
       "chapter": 10,
-      "directQuestions": 50,
-      "questionCount": 50,
+      "directQuestions": 59,
+      "questionCount": 59,
       "leaf": true
     },
     {
@@ -6891,7 +6891,7 @@
       "page": 549,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 122,
+      "questionCount": 160,
       "leaf": false
     },
     {
@@ -6931,7 +6931,7 @@
       "page": 551,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 83,
+      "questionCount": 111,
       "leaf": false
     },
     {
@@ -6951,7 +6951,7 @@
       "page": 551,
       "chapter": 10,
       "directQuestions": 2,
-      "questionCount": 27,
+      "questionCount": 31,
       "leaf": false
     },
     {
@@ -6970,8 +6970,8 @@
       "level": 7,
       "page": 551,
       "chapter": 10,
-      "directQuestions": 23,
-      "questionCount": 23,
+      "directQuestions": 27,
+      "questionCount": 27,
       "leaf": true
     },
     {
@@ -6980,8 +6980,8 @@
       "level": 6,
       "page": 552,
       "chapter": 10,
-      "directQuestions": 10,
-      "questionCount": 17,
+      "directQuestions": 12,
+      "questionCount": 21,
       "leaf": false
     },
     {
@@ -6990,8 +6990,8 @@
       "level": 7,
       "page": 553,
       "chapter": 10,
-      "directQuestions": 7,
-      "questionCount": 7,
+      "directQuestions": 9,
+      "questionCount": 9,
       "leaf": true
     },
     {
@@ -7001,7 +7001,7 @@
       "page": 554,
       "chapter": 10,
       "directQuestions": 1,
-      "questionCount": 38,
+      "questionCount": 58,
       "leaf": false
     },
     {
@@ -7010,8 +7010,8 @@
       "level": 7,
       "page": 554,
       "chapter": 10,
-      "directQuestions": 9,
-      "questionCount": 9,
+      "directQuestions": 10,
+      "questionCount": 10,
       "leaf": true
     },
     {
@@ -7020,8 +7020,8 @@
       "level": 7,
       "page": 554,
       "chapter": 10,
-      "directQuestions": 28,
-      "questionCount": 28,
+      "directQuestions": 47,
+      "questionCount": 47,
       "leaf": true
     },
     {
@@ -7031,7 +7031,7 @@
       "page": 555,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 11,
+      "questionCount": 17,
       "leaf": false
     },
     {
@@ -7041,7 +7041,7 @@
       "page": 555,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 11,
+      "questionCount": 17,
       "leaf": false
     },
     {
@@ -7050,8 +7050,8 @@
       "level": 7,
       "page": 555,
       "chapter": 10,
-      "directQuestions": 3,
-      "questionCount": 3,
+      "directQuestions": 6,
+      "questionCount": 6,
       "leaf": true
     },
     {
@@ -7060,8 +7060,8 @@
       "level": 7,
       "page": 555,
       "chapter": 10,
-      "directQuestions": 7,
-      "questionCount": 7,
+      "directQuestions": 9,
+      "questionCount": 9,
       "leaf": true
     },
     {
@@ -7070,8 +7070,8 @@
       "level": 7,
       "page": 555,
       "chapter": 10,
-      "directQuestions": 1,
-      "questionCount": 1,
+      "directQuestions": 2,
+      "questionCount": 2,
       "leaf": true
     },
     {
@@ -7081,7 +7081,7 @@
       "page": 556,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 16,
+      "questionCount": 20,
       "leaf": false
     },
     {
@@ -7091,7 +7091,7 @@
       "page": 556,
       "chapter": 10,
       "directQuestions": 0,
-      "questionCount": 16,
+      "questionCount": 20,
       "leaf": false
     },
     {
@@ -7100,8 +7100,8 @@
       "level": 7,
       "page": 556,
       "chapter": 10,
-      "directQuestions": 7,
-      "questionCount": 7,
+      "directQuestions": 8,
+      "questionCount": 8,
       "leaf": true
     },
     {
@@ -7110,8 +7110,8 @@
       "level": 7,
       "page": 556,
       "chapter": 10,
-      "directQuestions": 8,
-      "questionCount": 8,
+      "directQuestions": 10,
+      "questionCount": 10,
       "leaf": true
     },
     {
@@ -7120,8 +7120,8 @@
       "level": 7,
       "page": 556,
       "chapter": 10,
-      "directQuestions": 1,
-      "questionCount": 1,
+      "directQuestions": 2,
+      "questionCount": 2,
       "leaf": true
     },
     {
@@ -7200,8 +7200,8 @@
       "level": 4,
       "page": 567,
       "chapter": 11,
-      "directQuestions": 5,
-      "questionCount": 5,
+      "directQuestions": 7,
+      "questionCount": 7,
       "leaf": true
     },
     {
@@ -7211,7 +7211,7 @@
       "page": 569,
       "chapter": 11,
       "directQuestions": 2,
-      "questionCount": 73,
+      "questionCount": 75,
       "leaf": false
     },
     {
@@ -7230,8 +7230,8 @@
       "level": 5,
       "page": 569,
       "chapter": 11,
-      "directQuestions": 37,
-      "questionCount": 37,
+      "directQuestions": 39,
+      "questionCount": 39,
       "leaf": true
     },
     {
@@ -7350,8 +7350,8 @@
       "level": 4,
       "page": 587,
       "chapter": 11,
-      "directQuestions": 26,
-      "questionCount": 26,
+      "directQuestions": 28,
+      "questionCount": 28,
       "leaf": true
     },
     {
@@ -7401,7 +7401,7 @@
       "page": 597,
       "chapter": 11,
       "directQuestions": 0,
-      "questionCount": 42,
+      "questionCount": 113,
       "leaf": false
     },
     {
@@ -7420,8 +7420,8 @@
       "level": 5,
       "page": 597,
       "chapter": 11,
-      "directQuestions": 7,
-      "questionCount": 7,
+      "directQuestions": 10,
+      "questionCount": 10,
       "leaf": true
     },
     {
@@ -7450,8 +7450,8 @@
       "level": 5,
       "page": 599,
       "chapter": 11,
-      "directQuestions": 2,
-      "questionCount": 2,
+      "directQuestions": 31,
+      "questionCount": 31,
       "leaf": true
     },
     {
@@ -7460,8 +7460,8 @@
       "level": 5,
       "page": 601,
       "chapter": 11,
-      "directQuestions": 2,
-      "questionCount": 2,
+      "directQuestions": 19,
+      "questionCount": 19,
       "leaf": true
     },
     {
@@ -7470,8 +7470,8 @@
       "level": 5,
       "page": 602,
       "chapter": 11,
-      "directQuestions": 2,
-      "questionCount": 2,
+      "directQuestions": 24,
+      "questionCount": 24,
       "leaf": true
     },
     {
@@ -7481,7 +7481,7 @@
       "page": 603,
       "chapter": 11,
       "directQuestions": 1,
-      "questionCount": 254,
+      "questionCount": 285,
       "leaf": false
     },
     {
@@ -7490,8 +7490,8 @@
       "level": 5,
       "page": 603,
       "chapter": 11,
-      "directQuestions": 35,
-      "questionCount": 35,
+      "directQuestions": 39,
+      "questionCount": 39,
       "leaf": true
     },
     {
@@ -7500,8 +7500,8 @@
       "level": 5,
       "page": 604,
       "chapter": 11,
-      "directQuestions": 30,
-      "questionCount": 30,
+      "directQuestions": 31,
+      "questionCount": 31,
       "leaf": true
     },
     {
@@ -7510,8 +7510,8 @@
       "level": 5,
       "page": 605,
       "chapter": 11,
-      "directQuestions": 40,
-      "questionCount": 40,
+      "directQuestions": 44,
+      "questionCount": 44,
       "leaf": true
     },
     {
@@ -7521,7 +7521,7 @@
       "page": 607,
       "chapter": 11,
       "directQuestions": 0,
-      "questionCount": 148,
+      "questionCount": 170,
       "leaf": false
     },
     {
@@ -7540,8 +7540,8 @@
       "level": 6,
       "page": 607,
       "chapter": 11,
-      "directQuestions": 18,
-      "questionCount": 18,
+      "directQuestions": 26,
+      "questionCount": 26,
       "leaf": true
     },
     {
@@ -7550,8 +7550,8 @@
       "level": 6,
       "page": 608,
       "chapter": 11,
-      "directQuestions": 8,
-      "questionCount": 8,
+      "directQuestions": 13,
+      "questionCount": 13,
       "leaf": true
     },
     {
@@ -7560,8 +7560,8 @@
       "level": 6,
       "page": 609,
       "chapter": 11,
-      "directQuestions": 27,
-      "questionCount": 27,
+      "directQuestions": 28,
+      "questionCount": 28,
       "leaf": true
     },
     {
@@ -7580,8 +7580,8 @@
       "level": 6,
       "page": 610,
       "chapter": 11,
-      "directQuestions": 8,
-      "questionCount": 8,
+      "directQuestions": 10,
+      "questionCount": 10,
       "leaf": true
     },
     {
@@ -7610,8 +7610,8 @@
       "level": 6,
       "page": 611,
       "chapter": 11,
-      "directQuestions": 6,
-      "questionCount": 6,
+      "directQuestions": 7,
+      "questionCount": 7,
       "leaf": true
     },
     {
@@ -7630,8 +7630,8 @@
       "level": 6,
       "page": 612,
       "chapter": 11,
-      "directQuestions": 15,
-      "questionCount": 15,
+      "directQuestions": 16,
+      "questionCount": 16,
       "leaf": true
     },
     {
@@ -7650,8 +7650,8 @@
       "level": 6,
       "page": 613,
       "chapter": 11,
-      "directQuestions": 11,
-      "questionCount": 11,
+      "directQuestions": 15,
+      "questionCount": 15,
       "leaf": true
     },
     {
@@ -7691,7 +7691,7 @@
       "page": 617,
       "chapter": 11,
       "directQuestions": 0,
-      "questionCount": 35,
+      "questionCount": 37,
       "leaf": false
     },
     {
@@ -7720,8 +7720,8 @@
       "level": 5,
       "page": 617,
       "chapter": 11,
-      "directQuestions": 7,
-      "questionCount": 7,
+      "directQuestions": 8,
+      "questionCount": 8,
       "leaf": true
     },
     {
@@ -7740,8 +7740,8 @@
       "level": 5,
       "page": 618,
       "chapter": 11,
-      "directQuestions": 8,
-      "questionCount": 8,
+      "directQuestions": 9,
+      "questionCount": 9,
       "leaf": true
     },
     {
@@ -7750,8 +7750,8 @@
       "level": 4,
       "page": 619,
       "chapter": 11,
-      "directQuestions": 11,
-      "questionCount": 11,
+      "directQuestions": 14,
+      "questionCount": 14,
       "leaf": true
     },
     {
@@ -7940,8 +7940,8 @@
       "level": 4,
       "page": 647,
       "chapter": 9,
-      "directQuestions": 56,
-      "questionCount": 56,
+      "directQuestions": 65,
+      "questionCount": 65,
       "leaf": true
     },
     {
@@ -7960,8 +7960,8 @@
       "level": 4,
       "page": 653,
       "chapter": 1,
-      "directQuestions": 2,
-      "questionCount": 2,
+      "directQuestions": 3,
+      "questionCount": 3,
       "leaf": true
     },
     {
@@ -7990,8 +7990,8 @@
       "level": 4,
       "page": 663,
       "chapter": 1,
-      "directQuestions": 135,
-      "questionCount": 135,
+      "directQuestions": 207,
+      "questionCount": 207,
       "leaf": true
     }
   ],
@@ -8064,7 +8064,7 @@
       "sections": [
         "0.2"
       ],
-      "questionCount": 13
+      "questionCount": 15
     },
     {
       "page": 12,
@@ -8096,7 +8096,7 @@
       "page": 16,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 31
+      "questionCount": 32
     },
     {
       "page": 17,
@@ -8168,7 +8168,7 @@
       "sections": [
         "1.2"
       ],
-      "questionCount": 19
+      "questionCount": 22
     },
     {
       "page": 28,
@@ -8224,7 +8224,7 @@
         "2.1.1",
         "2.1.2"
       ],
-      "questionCount": 30
+      "questionCount": 31
     },
     {
       "page": 36,
@@ -8233,7 +8233,7 @@
         "2.1.3",
         "2.1.4"
       ],
-      "questionCount": 39
+      "questionCount": 50
     },
     {
       "page": 37,
@@ -8241,13 +8241,13 @@
       "sections": [
         "2.1.5"
       ],
-      "questionCount": 26
+      "questionCount": 27
     },
     {
       "page": 38,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 29
+      "questionCount": 31
     },
     {
       "page": 39,
@@ -8293,7 +8293,7 @@
       "sections": [
         "3.2"
       ],
-      "questionCount": 16
+      "questionCount": 21
     },
     {
       "page": 46,
@@ -8307,7 +8307,7 @@
       "sections": [
         "3.3"
       ],
-      "questionCount": 10
+      "questionCount": 16
     },
     {
       "page": 48,
@@ -8321,7 +8321,7 @@
       "sections": [
         "3.4"
       ],
-      "questionCount": 16
+      "questionCount": 25
     },
     {
       "page": 50,
@@ -8336,7 +8336,7 @@
         "3.5",
         "3.5.1"
       ],
-      "questionCount": 17
+      "questionCount": 23
     },
     {
       "page": 52,
@@ -8345,7 +8345,7 @@
         "3.5.2",
         "3.5.3"
       ],
-      "questionCount": 20
+      "questionCount": 27
     },
     {
       "page": 53,
@@ -8354,7 +8354,7 @@
         "3.6",
         "3.6.1"
       ],
-      "questionCount": 6
+      "questionCount": 7
     },
     {
       "page": 54,
@@ -8420,7 +8420,7 @@
       "page": 62,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 17
+      "questionCount": 20
     },
     {
       "page": 63,
@@ -8434,7 +8434,7 @@
       "page": 64,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 27
+      "questionCount": 28
     },
     {
       "page": 65,
@@ -8442,7 +8442,7 @@
       "sections": [
         "4.1.2.3"
       ],
-      "questionCount": 15
+      "questionCount": 17
     },
     {
       "page": 66,
@@ -8462,7 +8462,7 @@
       "page": 68,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 18
+      "questionCount": 21
     },
     {
       "page": 69,
@@ -8470,13 +8470,13 @@
       "sections": [
         "4.1.3"
       ],
-      "questionCount": 18
+      "questionCount": 19
     },
     {
       "page": 70,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 15
+      "questionCount": 17
     },
     {
       "page": 71,
@@ -8484,7 +8484,7 @@
       "sections": [
         "4.1.4"
       ],
-      "questionCount": 9
+      "questionCount": 11
     },
     {
       "page": 72,
@@ -8492,19 +8492,19 @@
       "sections": [
         "4.1.5"
       ],
-      "questionCount": 10
+      "questionCount": 11
     },
     {
       "page": 73,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 12
+      "questionCount": 15
     },
     {
       "page": 74,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 30
+      "questionCount": 34
     },
     {
       "page": 75,
@@ -8520,7 +8520,7 @@
       "sections": [
         "4.1.7"
       ],
-      "questionCount": 18
+      "questionCount": 19
     },
     {
       "page": 77,
@@ -8529,7 +8529,7 @@
         "4.1.7.1",
         "4.1.7.2"
       ],
-      "questionCount": 7
+      "questionCount": 8
     },
     {
       "page": 78,
@@ -8537,19 +8537,19 @@
       "sections": [
         "4.1.8"
       ],
-      "questionCount": 7
+      "questionCount": 9
     },
     {
       "page": 79,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 14
+      "questionCount": 17
     },
     {
       "page": 80,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 6
+      "questionCount": 9
     },
     {
       "page": 81,
@@ -8629,19 +8629,19 @@
       "page": 90,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 11
+      "questionCount": 12
     },
     {
       "page": 91,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 6
+      "questionCount": 7
     },
     {
       "page": 92,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 15
+      "questionCount": 16
     },
     {
       "page": 93,
@@ -8649,13 +8649,13 @@
       "sections": [
         "4.2.4.2"
       ],
-      "questionCount": 25
+      "questionCount": 28
     },
     {
       "page": 94,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 9
+      "questionCount": 10
     },
     {
       "page": 95,
@@ -8667,13 +8667,13 @@
       "page": 96,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 7
+      "questionCount": 9
     },
     {
       "page": 97,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 28
+      "questionCount": 30
     },
     {
       "page": 98,
@@ -8681,7 +8681,7 @@
       "sections": [
         "4.2.5"
       ],
-      "questionCount": 11
+      "questionCount": 12
     },
     {
       "page": 99,
@@ -8690,7 +8690,7 @@
         "4.2.6",
         "4.2.7"
       ],
-      "questionCount": 15
+      "questionCount": 16
     },
     {
       "page": 100,
@@ -8698,7 +8698,7 @@
       "sections": [
         "4.2.8"
       ],
-      "questionCount": 3
+      "questionCount": 4
     },
     {
       "page": 101,
@@ -8706,7 +8706,7 @@
       "sections": [
         "4.2.9"
       ],
-      "questionCount": 7
+      "questionCount": 8
     },
     {
       "page": 102,
@@ -8715,13 +8715,13 @@
         "4.2.10",
         "4.2.10.1"
       ],
-      "questionCount": 9
+      "questionCount": 10
     },
     {
       "page": 103,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 1
+      "questionCount": 3
     },
     {
       "page": 104,
@@ -8729,7 +8729,7 @@
       "sections": [
         "4.2.10.2"
       ],
-      "questionCount": 21
+      "questionCount": 24
     },
     {
       "page": 105,
@@ -8759,13 +8759,13 @@
       "sections": [
         "4.3.1.2"
       ],
-      "questionCount": 26
+      "questionCount": 28
     },
     {
       "page": 109,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 22
+      "questionCount": 24
     },
     {
       "page": 110,
@@ -8781,13 +8781,13 @@
       "sections": [
         "4.3.1.4"
       ],
-      "questionCount": 25
+      "questionCount": 26
     },
     {
       "page": 112,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 20
+      "questionCount": 22
     },
     {
       "page": 113,
@@ -8795,7 +8795,7 @@
       "sections": [
         "4.3.1.5"
       ],
-      "questionCount": 30
+      "questionCount": 31
     },
     {
       "page": 114,
@@ -8803,13 +8803,13 @@
       "sections": [
         "4.3.1.6"
       ],
-      "questionCount": 20
+      "questionCount": 21
     },
     {
       "page": 115,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 9
+      "questionCount": 11
     },
     {
       "page": 116,
@@ -8825,37 +8825,37 @@
       "sections": [
         "4.3.3"
       ],
-      "questionCount": 5
+      "questionCount": 7
     },
     {
       "page": 118,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 9
+      "questionCount": 16
     },
     {
       "page": 119,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 21
+      "questionCount": 36
     },
     {
       "page": 120,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 9
+      "questionCount": 19
     },
     {
       "page": 121,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 12
+      "questionCount": 19
     },
     {
       "page": 122,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 17
+      "questionCount": 23
     },
     {
       "page": 123,
@@ -8869,19 +8869,19 @@
       "page": 124,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 9
+      "questionCount": 16
     },
     {
       "page": 125,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 17
+      "questionCount": 27
     },
     {
       "page": 126,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 15
+      "questionCount": 21
     },
     {
       "page": 127,
@@ -8889,19 +8889,19 @@
       "sections": [
         "4.3.5"
       ],
-      "questionCount": 7
+      "questionCount": 10
     },
     {
       "page": 128,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 12
+      "questionCount": 16
     },
     {
       "page": 129,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 5
+      "questionCount": 79
     },
     {
       "page": 130,
@@ -8915,13 +8915,13 @@
       "sections": [
         "4.3.6"
       ],
-      "questionCount": 8
+      "questionCount": 10
     },
     {
       "page": 132,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 4
+      "questionCount": 8
     },
     {
       "page": 133,
@@ -8929,7 +8929,7 @@
       "sections": [
         "4.3.7"
       ],
-      "questionCount": 25
+      "questionCount": 30
     },
     {
       "page": 134,
@@ -8941,7 +8941,7 @@
       "page": 135,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 34
+      "questionCount": 35
     },
     {
       "page": 136,
@@ -8949,49 +8949,49 @@
       "sections": [
         "4.3.7.1"
       ],
-      "questionCount": 11
+      "questionCount": 13
     },
     {
       "page": 137,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 2
+      "questionCount": 6
     },
     {
       "page": 138,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 3
+      "questionCount": 5
     },
     {
       "page": 139,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 15
+      "questionCount": 20
     },
     {
       "page": 140,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 29
+      "questionCount": 32
     },
     {
       "page": 141,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 26
+      "questionCount": 27
     },
     {
       "page": 142,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 15
+      "questionCount": 16
     },
     {
       "page": 143,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 36
+      "questionCount": 53
     },
     {
       "page": 144,
@@ -9011,37 +9011,37 @@
       "sections": [
         "4.3.8"
       ],
-      "questionCount": 3
+      "questionCount": 4
     },
     {
       "page": 147,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 6
+      "questionCount": 9
     },
     {
       "page": 148,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 13
+      "questionCount": 15
     },
     {
       "page": 149,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 1
+      "questionCount": 2
     },
     {
       "page": 150,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 3
+      "questionCount": 102
     },
     {
       "page": 151,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 2
+      "questionCount": 116
     },
     {
       "page": 152,
@@ -9065,25 +9065,25 @@
       "page": 155,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 37
+      "questionCount": 38
     },
     {
       "page": 156,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 24
+      "questionCount": 28
     },
     {
       "page": 157,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 12
+      "questionCount": 14
     },
     {
       "page": 158,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 11
+      "questionCount": 12
     },
     {
       "page": 159,
@@ -9091,13 +9091,13 @@
       "sections": [
         "4.3.9"
       ],
-      "questionCount": 18
+      "questionCount": 22
     },
     {
       "page": 160,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 20
+      "questionCount": 26
     },
     {
       "page": 161,
@@ -9105,7 +9105,7 @@
       "sections": [
         "4.3.10"
       ],
-      "questionCount": 13
+      "questionCount": 14
     },
     {
       "page": 162,
@@ -9113,7 +9113,7 @@
       "sections": [
         "4.3.11"
       ],
-      "questionCount": 12
+      "questionCount": 15
     },
     {
       "page": 163,
@@ -9121,19 +9121,19 @@
       "sections": [
         "4.3.12"
       ],
-      "questionCount": 18
+      "questionCount": 19
     },
     {
       "page": 164,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 8
+      "questionCount": 10
     },
     {
       "page": 165,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 6
+      "questionCount": 9
     },
     {
       "page": 166,
@@ -9145,13 +9145,13 @@
       "page": 167,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 1
+      "questionCount": 7
     },
     {
       "page": 168,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 6
+      "questionCount": 13
     },
     {
       "page": 169,
@@ -9159,13 +9159,13 @@
       "sections": [
         "4.3.13"
       ],
-      "questionCount": 13
+      "questionCount": 16
     },
     {
       "page": 170,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 6
+      "questionCount": 8
     },
     {
       "page": 171,
@@ -9199,7 +9199,7 @@
         "4.4.1",
         "4.4.1.1"
       ],
-      "questionCount": 20
+      "questionCount": 22
     },
     {
       "page": 176,
@@ -9207,7 +9207,7 @@
       "sections": [
         "4.4.1.2"
       ],
-      "questionCount": 7
+      "questionCount": 12
     },
     {
       "page": 177,
@@ -9217,7 +9217,7 @@
         "4.4.2.1",
         "4.4.2.2"
       ],
-      "questionCount": 4
+      "questionCount": 7
     },
     {
       "page": 178,
@@ -9226,7 +9226,7 @@
         "4.4.2.3",
         "4.4.3"
       ],
-      "questionCount": 9
+      "questionCount": 15
     },
     {
       "page": 179,
@@ -9234,7 +9234,7 @@
       "sections": [
         "4.4.4"
       ],
-      "questionCount": 8
+      "questionCount": 12
     },
     {
       "page": 180,
@@ -9242,7 +9242,7 @@
       "sections": [
         "4.4.5"
       ],
-      "questionCount": 11
+      "questionCount": 14
     },
     {
       "page": 181,
@@ -9250,13 +9250,13 @@
       "sections": [
         "4.4.6"
       ],
-      "questionCount": 8
+      "questionCount": 10
     },
     {
       "page": 182,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 9
+      "questionCount": 12
     },
     {
       "page": 183,
@@ -9276,19 +9276,19 @@
       "sections": [
         "5.1"
       ],
-      "questionCount": 38
+      "questionCount": 42
     },
     {
       "page": 186,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 31
+      "questionCount": 32
     },
     {
       "page": 187,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 31
+      "questionCount": 34
     },
     {
       "page": 188,
@@ -9316,25 +9316,25 @@
       "sections": [
         "5.3"
       ],
-      "questionCount": 24
+      "questionCount": 28
     },
     {
       "page": 192,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 11
+      "questionCount": 15
     },
     {
       "page": 193,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 21
+      "questionCount": 26
     },
     {
       "page": 194,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 38
+      "questionCount": 40
     },
     {
       "page": 195,
@@ -9372,7 +9372,7 @@
         "5.6.1",
         "5.6.2"
       ],
-      "questionCount": 29
+      "questionCount": 30
     },
     {
       "page": 200,
@@ -9386,7 +9386,7 @@
       "sections": [
         "5.7"
       ],
-      "questionCount": 19
+      "questionCount": 20
     },
     {
       "page": 202,
@@ -9403,7 +9403,7 @@
         "5.8.2",
         "5.8.3"
       ],
-      "questionCount": 23
+      "questionCount": 26
     },
     {
       "page": 204,
@@ -9440,7 +9440,7 @@
       "page": 208,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 35
+      "questionCount": 36
     },
     {
       "page": 209,
@@ -9454,7 +9454,7 @@
       "page": 210,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 9
+      "questionCount": 10
     },
     {
       "page": 211,
@@ -9488,7 +9488,7 @@
       "sections": [
         "5.12"
       ],
-      "questionCount": 21
+      "questionCount": 22
     },
     {
       "page": 216,
@@ -9502,7 +9502,7 @@
       "sections": [
         "5.13"
       ],
-      "questionCount": 34
+      "questionCount": 36
     },
     {
       "page": 218,
@@ -9516,7 +9516,7 @@
       "sections": [
         "5.14"
       ],
-      "questionCount": 19
+      "questionCount": 20
     },
     {
       "page": 220,
@@ -9534,7 +9534,7 @@
         "5.15.2.1",
         "5.15.2.2"
       ],
-      "questionCount": 34
+      "questionCount": 35
     },
     {
       "page": 222,
@@ -9581,13 +9581,13 @@
         "5.17",
         "5.17.1"
       ],
-      "questionCount": 28
+      "questionCount": 39
     },
     {
       "page": 228,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 8
+      "questionCount": 9
     },
     {
       "page": 229,
@@ -9595,13 +9595,13 @@
       "sections": [
         "5.18"
       ],
-      "questionCount": 19
+      "questionCount": 22
     },
     {
       "page": 230,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 15
+      "questionCount": 26
     },
     {
       "page": 231,
@@ -9611,7 +9611,7 @@
         "5.19.1",
         "5.19.2"
       ],
-      "questionCount": 8
+      "questionCount": 15
     },
     {
       "page": 232,
@@ -9619,7 +9619,7 @@
       "sections": [
         "5.19.3"
       ],
-      "questionCount": 13
+      "questionCount": 18
     },
     {
       "page": 233,
@@ -9639,25 +9639,25 @@
       "sections": [
         "6.1"
       ],
-      "questionCount": 19
+      "questionCount": 22
     },
     {
       "page": 236,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 17
+      "questionCount": 22
     },
     {
       "page": 237,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 26
+      "questionCount": 33
     },
     {
       "page": 238,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 27
+      "questionCount": 35
     },
     {
       "page": 239,
@@ -9665,7 +9665,7 @@
       "sections": [
         "6.1.1"
       ],
-      "questionCount": 32
+      "questionCount": 33
     },
     {
       "page": 240,
@@ -9673,7 +9673,7 @@
       "sections": [
         "6.1.1.1"
       ],
-      "questionCount": 20
+      "questionCount": 25
     },
     {
       "page": 241,
@@ -9681,13 +9681,13 @@
       "sections": [
         "6.1.1.2"
       ],
-      "questionCount": 12
+      "questionCount": 13
     },
     {
       "page": 242,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 12
+      "questionCount": 15
     },
     {
       "page": 243,
@@ -9695,7 +9695,7 @@
       "sections": [
         "6.1.1.3"
       ],
-      "questionCount": 10
+      "questionCount": 12
     },
     {
       "page": 244,
@@ -9704,7 +9704,7 @@
         "6.1.2",
         "6.1.3"
       ],
-      "questionCount": 29
+      "questionCount": 34
     },
     {
       "page": 245,
@@ -9715,7 +9715,7 @@
         "6.1.6",
         "6.1.7"
       ],
-      "questionCount": 34
+      "questionCount": 37
     },
     {
       "page": 246,
@@ -9725,13 +9725,13 @@
         "6.1.9",
         "6.1.9.1"
       ],
-      "questionCount": 27
+      "questionCount": 32
     },
     {
       "page": 247,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 9
+      "questionCount": 11
     },
     {
       "page": 248,
@@ -9739,7 +9739,7 @@
       "sections": [
         "6.1.9.2"
       ],
-      "questionCount": 28
+      "questionCount": 29
     },
     {
       "page": 249,
@@ -9747,7 +9747,7 @@
       "sections": [
         "6.1.10"
       ],
-      "questionCount": 33
+      "questionCount": 36
     },
     {
       "page": 250,
@@ -9802,7 +9802,7 @@
         "6.4.4",
         "6.4.5"
       ],
-      "questionCount": 30
+      "questionCount": 36
     },
     {
       "page": 256,
@@ -9812,7 +9812,7 @@
         "6.4.7",
         "6.4.8"
       ],
-      "questionCount": 29
+      "questionCount": 40
     },
     {
       "page": 257,
@@ -9820,7 +9820,7 @@
       "sections": [
         "6.4.9"
       ],
-      "questionCount": 27
+      "questionCount": 29
     },
     {
       "page": 258,
@@ -9876,25 +9876,25 @@
       "sections": [
         "6.8"
       ],
-      "questionCount": 37
+      "questionCount": 38
     },
     {
       "page": 266,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 30
+      "questionCount": 33
     },
     {
       "page": 267,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 20
+      "questionCount": 28
     },
     {
       "page": 268,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 7
+      "questionCount": 8
     },
     {
       "page": 269,
@@ -9906,7 +9906,7 @@
       "page": 270,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 8
+      "questionCount": 9
     },
     {
       "page": 271,
@@ -9926,19 +9926,19 @@
       "sections": [
         "6.9"
       ],
-      "questionCount": 29
+      "questionCount": 33
     },
     {
       "page": 274,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 20
+      "questionCount": 29
     },
     {
       "page": 275,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 5
+      "questionCount": 6
     },
     {
       "page": 276,
@@ -9955,7 +9955,7 @@
         "6.10.2",
         "6.10.3"
       ],
-      "questionCount": 18
+      "questionCount": 20
     },
     {
       "page": 278,
@@ -9963,25 +9963,25 @@
       "sections": [
         "6.10.3.1"
       ],
-      "questionCount": 16
+      "questionCount": 31
     },
     {
       "page": 279,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 26
+      "questionCount": 31
     },
     {
       "page": 280,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 33
+      "questionCount": 36
     },
     {
       "page": 281,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 10
+      "questionCount": 11
     },
     {
       "page": 282,
@@ -9998,13 +9998,13 @@
         "6.11.2",
         "6.11.3"
       ],
-      "questionCount": 17
+      "questionCount": 21
     },
     {
       "page": 284,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 14
+      "questionCount": 15
     },
     {
       "page": 285,
@@ -10025,7 +10025,7 @@
         "7.1",
         "7.1.1"
       ],
-      "questionCount": 28
+      "questionCount": 30
     },
     {
       "page": 288,
@@ -10042,7 +10042,7 @@
         "7.2",
         "7.2.1"
       ],
-      "questionCount": 24
+      "questionCount": 36
     },
     {
       "page": 290,
@@ -10053,7 +10053,7 @@
         "7.2.3.1",
         "7.2.3.2"
       ],
-      "questionCount": 30
+      "questionCount": 33
     },
     {
       "page": 291,
@@ -10061,19 +10061,19 @@
       "sections": [
         "7.2.3.3"
       ],
-      "questionCount": 27
+      "questionCount": 30
     },
     {
       "page": 292,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 27
+      "questionCount": 33
     },
     {
       "page": 293,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 32
+      "questionCount": 34
     },
     {
       "page": 294,
@@ -10081,7 +10081,7 @@
       "sections": [
         "7.2.3.4"
       ],
-      "questionCount": 16
+      "questionCount": 18
     },
     {
       "page": 295,
@@ -10099,13 +10099,13 @@
         "7.2.3.7",
         "7.2.4"
       ],
-      "questionCount": 25
+      "questionCount": 41
     },
     {
       "page": 297,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 32
+      "questionCount": 34
     },
     {
       "page": 298,
@@ -10121,7 +10121,7 @@
         "7.3.1",
         "7.3.2"
       ],
-      "questionCount": 15
+      "questionCount": 24
     },
     {
       "page": 300,
@@ -10130,7 +10130,7 @@
         "7.3.3",
         "7.3.4"
       ],
-      "questionCount": 19
+      "questionCount": 26
     },
     {
       "page": 301,
@@ -10141,7 +10141,7 @@
         "7.3.6.1",
         "7.3.6.2"
       ],
-      "questionCount": 20
+      "questionCount": 26
     },
     {
       "page": 302,
@@ -10170,7 +10170,7 @@
       "sections": [
         "8.1"
       ],
-      "questionCount": 1
+      "questionCount": 2
     },
     {
       "page": 306,
@@ -10226,7 +10226,7 @@
       "page": 313,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 10
+      "questionCount": 11
     },
     {
       "page": 314,
@@ -10258,13 +10258,13 @@
         "8.5.3",
         "8.5.4"
       ],
-      "questionCount": 21
+      "questionCount": 26
     },
     {
       "page": 318,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 20
+      "questionCount": 32
     },
     {
       "page": 319,
@@ -10286,13 +10286,13 @@
       "sections": [
         "8.6"
       ],
-      "questionCount": 4
+      "questionCount": 91
     },
     {
       "page": 322,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 4
+      "questionCount": 85
     },
     {
       "page": 323,
@@ -10302,31 +10302,31 @@
         "8.7.1",
         "8.7.2"
       ],
-      "questionCount": 14
+      "questionCount": 16
     },
     {
       "page": 324,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 16
+      "questionCount": 20
     },
     {
       "page": 325,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 19
+      "questionCount": 25
     },
     {
       "page": 326,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 13
+      "questionCount": 14
     },
     {
       "page": 327,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 10
+      "questionCount": 12
     },
     {
       "page": 328,
@@ -10366,7 +10366,7 @@
       "sections": [
         "9.1"
       ],
-      "questionCount": 10
+      "questionCount": 11
     },
     {
       "page": 334,
@@ -10386,7 +10386,7 @@
         "9.2.1.4",
         "9.2.1.5"
       ],
-      "questionCount": 29
+      "questionCount": 32
     },
     {
       "page": 336,
@@ -10405,19 +10405,19 @@
         "9.3",
         "9.3.1"
       ],
-      "questionCount": 25
+      "questionCount": 29
     },
     {
       "page": 338,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 26
+      "questionCount": 33
     },
     {
       "page": 339,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 28
+      "questionCount": 31
     },
     {
       "page": 340,
@@ -10427,13 +10427,13 @@
         "9.3.2.1",
         "9.3.2.2"
       ],
-      "questionCount": 31
+      "questionCount": 38
     },
     {
       "page": 341,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 21
+      "questionCount": 22
     },
     {
       "page": 342,
@@ -10459,7 +10459,7 @@
         "9.3.2.4",
         "9.3.2.5"
       ],
-      "questionCount": 11
+      "questionCount": 18
     },
     {
       "page": 345,
@@ -10468,7 +10468,7 @@
         "9.3.2.6",
         "9.3.2.7"
       ],
-      "questionCount": 7
+      "questionCount": 64
     },
     {
       "page": 346,
@@ -10476,7 +10476,7 @@
       "sections": [
         "9.3.2.8"
       ],
-      "questionCount": 18
+      "questionCount": 26
     },
     {
       "page": 347,
@@ -10484,7 +10484,7 @@
       "sections": [
         "9.4"
       ],
-      "questionCount": 3
+      "questionCount": 5
     },
     {
       "page": 348,
@@ -10501,7 +10501,7 @@
         "9.5.2",
         "9.5.2.1"
       ],
-      "questionCount": 40
+      "questionCount": 41
     },
     {
       "page": 350,
@@ -10521,7 +10521,7 @@
       "sections": [
         "9.5.4"
       ],
-      "questionCount": 4
+      "questionCount": 5
     },
     {
       "page": 352,
@@ -10533,7 +10533,7 @@
       "page": 353,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 9
+      "questionCount": 11
     },
     {
       "page": 354,
@@ -10541,7 +10541,7 @@
       "sections": [
         "9.5.5"
       ],
-      "questionCount": 18
+      "questionCount": 41
     },
     {
       "page": 355,
@@ -10568,7 +10568,7 @@
         "9.6.2",
         "9.6.2.1"
       ],
-      "questionCount": 19
+      "questionCount": 28
     },
     {
       "page": 358,
@@ -10581,7 +10581,7 @@
         "9.6.4",
         "9.6.4.1"
       ],
-      "questionCount": 25
+      "questionCount": 32
     },
     {
       "page": 359,
@@ -10593,7 +10593,7 @@
         "9.6.6",
         "9.6.6.1"
       ],
-      "questionCount": 31
+      "questionCount": 36
     },
     {
       "page": 360,
@@ -10604,7 +10604,7 @@
         "9.6.7.1",
         "9.6.7.2"
       ],
-      "questionCount": 26
+      "questionCount": 32
     },
     {
       "page": 361,
@@ -10614,7 +10614,7 @@
         "9.6.8.1",
         "9.6.8.2"
       ],
-      "questionCount": 25
+      "questionCount": 31
     },
     {
       "page": 362,
@@ -10625,7 +10625,7 @@
         "9.6.9.1",
         "9.6.10"
       ],
-      "questionCount": 26
+      "questionCount": 57
     },
     {
       "page": 363,
@@ -10639,7 +10639,7 @@
         "9.6.11.3",
         "9.6.11.4"
       ],
-      "questionCount": 24
+      "questionCount": 26
     },
     {
       "page": 364,
@@ -10650,13 +10650,13 @@
         "9.6.12.1",
         "9.6.12.2"
       ],
-      "questionCount": 22
+      "questionCount": 30
     },
     {
       "page": 365,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 11
+      "questionCount": 12
     },
     {
       "page": 366,
@@ -10664,7 +10664,7 @@
       "sections": [
         "9.6.12.3"
       ],
-      "questionCount": 7
+      "questionCount": 8
     },
     {
       "page": 367,
@@ -10675,7 +10675,7 @@
         "9.6.13.1",
         "9.6.13.2"
       ],
-      "questionCount": 28
+      "questionCount": 30
     },
     {
       "page": 368,
@@ -10687,7 +10687,7 @@
         "9.6.14.1.1",
         "9.6.14.1.2"
       ],
-      "questionCount": 19
+      "questionCount": 26
     },
     {
       "page": 369,
@@ -10698,7 +10698,7 @@
         "9.6.14.2.2",
         "9.6.15"
       ],
-      "questionCount": 9
+      "questionCount": 14
     },
     {
       "page": 370,
@@ -10708,7 +10708,7 @@
         "9.6.15.2",
         "9.6.16"
       ],
-      "questionCount": 23
+      "questionCount": 39
     },
     {
       "page": 371,
@@ -10721,7 +10721,7 @@
         "9.6.16.2.1",
         "9.6.16.2.2"
       ],
-      "questionCount": 26
+      "questionCount": 27
     },
     {
       "page": 372,
@@ -10736,7 +10736,7 @@
         "9.6.17.1",
         "9.6.17.2"
       ],
-      "questionCount": 29
+      "questionCount": 32
     },
     {
       "page": 373,
@@ -10747,7 +10747,7 @@
         "9.6.18.2",
         "9.6.19"
       ],
-      "questionCount": 27
+      "questionCount": 32
     },
     {
       "page": 374,
@@ -10758,7 +10758,7 @@
         "9.6.20",
         "9.6.20.1"
       ],
-      "questionCount": 24
+      "questionCount": 31
     },
     {
       "page": 375,
@@ -10769,7 +10769,7 @@
         "9.6.21.1",
         "9.6.21.1.1"
       ],
-      "questionCount": 28
+      "questionCount": 34
     },
     {
       "page": 376,
@@ -10785,7 +10785,7 @@
         "9.6.22",
         "9.6.22.1"
       ],
-      "questionCount": 19
+      "questionCount": 20
     },
     {
       "page": 377,
@@ -10798,7 +10798,7 @@
         "9.6.23.1.2",
         "9.6.23.2"
       ],
-      "questionCount": 21
+      "questionCount": 28
     },
     {
       "page": 378,
@@ -10809,7 +10809,7 @@
         "9.6.23.3",
         "9.6.24"
       ],
-      "questionCount": 21
+      "questionCount": 31
     },
     {
       "page": 379,
@@ -10823,7 +10823,7 @@
         "9.6.26",
         "9.6.26.1"
       ],
-      "questionCount": 20
+      "questionCount": 27
     },
     {
       "page": 380,
@@ -10836,7 +10836,7 @@
         "9.6.28",
         "9.6.28.1"
       ],
-      "questionCount": 21
+      "questionCount": 25
     },
     {
       "page": 381,
@@ -10846,7 +10846,7 @@
         "9.6.29.1",
         "9.6.30"
       ],
-      "questionCount": 17
+      "questionCount": 18
     },
     {
       "page": 382,
@@ -10857,7 +10857,7 @@
         "9.6.31",
         "9.6.31.1"
       ],
-      "questionCount": 32
+      "questionCount": 36
     },
     {
       "page": 383,
@@ -10868,7 +10868,7 @@
         "9.6.32.1",
         "9.6.32.2"
       ],
-      "questionCount": 28
+      "questionCount": 35
     },
     {
       "page": 384,
@@ -10880,7 +10880,7 @@
         "9.6.34",
         "9.6.34.1"
       ],
-      "questionCount": 18
+      "questionCount": 23
     },
     {
       "page": 385,
@@ -10892,7 +10892,7 @@
         "9.6.35.2",
         "9.6.36"
       ],
-      "questionCount": 24
+      "questionCount": 30
     },
     {
       "page": 386,
@@ -10900,7 +10900,7 @@
       "sections": [
         "9.6.36.1"
       ],
-      "questionCount": 16
+      "questionCount": 17
     },
     {
       "page": 387,
@@ -10925,19 +10925,19 @@
         "9.8.1.1",
         "9.8.1.2"
       ],
-      "questionCount": 23
+      "questionCount": 29
     },
     {
       "page": 390,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 30
+      "questionCount": 34
     },
     {
       "page": 391,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 25
+      "questionCount": 27
     },
     {
       "page": 392,
@@ -10949,7 +10949,7 @@
       "page": 393,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 3
+      "questionCount": 4
     },
     {
       "page": 394,
@@ -10960,7 +10960,7 @@
         "9.8.2",
         "9.8.2.1"
       ],
-      "questionCount": 26
+      "questionCount": 28
     },
     {
       "page": 395,
@@ -10968,13 +10968,13 @@
       "sections": [
         "9.8.2.2"
       ],
-      "questionCount": 21
+      "questionCount": 29
     },
     {
       "page": 396,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 33
+      "questionCount": 35
     },
     {
       "page": 397,
@@ -10983,7 +10983,7 @@
         "9.8.2.3",
         "9.8.2.4"
       ],
-      "questionCount": 10
+      "questionCount": 12
     },
     {
       "page": 398,
@@ -11039,25 +11039,25 @@
         "10.1.1",
         "10.1.1.1"
       ],
-      "questionCount": 3
+      "questionCount": 4
     },
     {
       "page": 406,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 17
+      "questionCount": 26
     },
     {
       "page": 407,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 19
+      "questionCount": 30
     },
     {
       "page": 408,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 8
+      "questionCount": 13
     },
     {
       "page": 409,
@@ -11071,13 +11071,13 @@
       "page": 410,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 18
+      "questionCount": 28
     },
     {
       "page": 411,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 17
+      "questionCount": 28
     },
     {
       "page": 412,
@@ -11087,7 +11087,7 @@
         "10.1.2.1",
         "10.1.2.1.1"
       ],
-      "questionCount": 12
+      "questionCount": 16
     },
     {
       "page": 413,
@@ -11099,7 +11099,7 @@
         "10.1.2.1.2.3",
         "10.1.2.1.2.4"
       ],
-      "questionCount": 37
+      "questionCount": 39
     },
     {
       "page": 414,
@@ -11109,7 +11109,7 @@
         "10.1.2.1.3.1",
         "10.1.2.1.3.2"
       ],
-      "questionCount": 29
+      "questionCount": 32
     },
     {
       "page": 415,
@@ -11118,7 +11118,7 @@
         "10.1.2.1.3.3",
         "10.1.2.1.3.4"
       ],
-      "questionCount": 27
+      "questionCount": 30
     },
     {
       "page": 416,
@@ -11128,13 +11128,13 @@
         "10.1.2.1.4.1",
         "10.1.2.1.4.2"
       ],
-      "questionCount": 20
+      "questionCount": 21
     },
     {
       "page": 417,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 17
+      "questionCount": 22
     },
     {
       "page": 418,
@@ -11143,7 +11143,7 @@
         "10.1.2.1.5",
         "10.1.2.1.6"
       ],
-      "questionCount": 29
+      "questionCount": 32
     },
     {
       "page": 419,
@@ -11154,7 +11154,7 @@
         "10.1.2.2.2",
         "10.1.2.2.2.1"
       ],
-      "questionCount": 17
+      "questionCount": 18
     },
     {
       "page": 420,
@@ -11164,7 +11164,7 @@
         "10.1.2.2.2.3",
         "10.1.2.2.2.4"
       ],
-      "questionCount": 34
+      "questionCount": 39
     },
     {
       "page": 421,
@@ -11181,7 +11181,7 @@
       "sections": [
         "10.1.2.2.3.2"
       ],
-      "questionCount": 13
+      "questionCount": 17
     },
     {
       "page": 423,
@@ -11190,7 +11190,7 @@
         "10.1.2.2.4",
         "10.1.2.2.5"
       ],
-      "questionCount": 37
+      "questionCount": 41
     },
     {
       "page": 424,
@@ -11202,7 +11202,7 @@
         "10.1.3.1.2",
         "10.1.3.1.3"
       ],
-      "questionCount": 11
+      "questionCount": 17
     },
     {
       "page": 425,
@@ -11213,7 +11213,7 @@
         "10.1.3.2.1.1",
         "10.1.3.2.1.2"
       ],
-      "questionCount": 29
+      "questionCount": 38
     },
     {
       "page": 426,
@@ -11222,7 +11222,7 @@
         "10.1.3.2.2",
         "10.1.3.2.2.1"
       ],
-      "questionCount": 33
+      "questionCount": 45
     },
     {
       "page": 427,
@@ -11230,7 +11230,7 @@
       "sections": [
         "10.1.3.2.2.2"
       ],
-      "questionCount": 24
+      "questionCount": 33
     },
     {
       "page": 428,
@@ -11245,7 +11245,7 @@
         "10.1.4.2.1",
         "10.1.4.2.1.1"
       ],
-      "questionCount": 21
+      "questionCount": 27
     },
     {
       "page": 429,
@@ -11253,7 +11253,7 @@
       "sections": [
         "10.1.4.2.1.2"
       ],
-      "questionCount": 36
+      "questionCount": 47
     },
     {
       "page": 430,
@@ -11262,7 +11262,7 @@
         "10.1.4.2.2",
         "10.1.4.2.2.1"
       ],
-      "questionCount": 28
+      "questionCount": 36
     },
     {
       "page": 431,
@@ -11270,7 +11270,7 @@
       "sections": [
         "10.1.4.2.2.2"
       ],
-      "questionCount": 28
+      "questionCount": 36
     },
     {
       "page": 432,
@@ -11280,7 +11280,7 @@
         "10.1.5.1",
         "10.1.5.2"
       ],
-      "questionCount": 22
+      "questionCount": 24
     },
     {
       "page": 433,
@@ -11302,7 +11302,7 @@
         "10.1.7.1.2",
         "10.1.7.1.3"
       ],
-      "questionCount": 16
+      "questionCount": 22
     },
     {
       "page": 435,
@@ -11317,43 +11317,43 @@
       "page": 436,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 12
+      "questionCount": 18
     },
     {
       "page": 437,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 15
+      "questionCount": 17
     },
     {
       "page": 438,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 20
+      "questionCount": 23
     },
     {
       "page": 439,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 11
+      "questionCount": 16
     },
     {
       "page": 440,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 17
+      "questionCount": 20
     },
     {
       "page": 441,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 11
+      "questionCount": 17
     },
     {
       "page": 442,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 13
+      "questionCount": 17
     },
     {
       "page": 443,
@@ -11374,13 +11374,13 @@
         "10.2.2.2.3",
         "10.2.2.2.4"
       ],
-      "questionCount": 34
+      "questionCount": 37
     },
     {
       "page": 445,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 7
+      "questionCount": 9
     },
     {
       "page": 446,
@@ -11392,7 +11392,7 @@
         "10.2.2.3.3",
         "10.2.2.3.4"
       ],
-      "questionCount": 33
+      "questionCount": 36
     },
     {
       "page": 447,
@@ -11401,7 +11401,7 @@
         "10.2.2.4",
         "10.2.2.5"
       ],
-      "questionCount": 18
+      "questionCount": 20
     },
     {
       "page": 448,
@@ -11410,7 +11410,7 @@
         "10.2.3",
         "10.2.3.1"
       ],
-      "questionCount": 9
+      "questionCount": 11
     },
     {
       "page": 449,
@@ -11419,7 +11419,7 @@
         "10.2.3.2",
         "10.2.3.3"
       ],
-      "questionCount": 8
+      "questionCount": 9
     },
     {
       "page": 450,
@@ -11440,7 +11440,7 @@
         "10.2.3.5.4",
         "10.2.3.5.5"
       ],
-      "questionCount": 26
+      "questionCount": 51
     },
     {
       "page": 452,
@@ -11454,7 +11454,7 @@
         "10.2.4.1.2",
         "10.2.4.1.3"
       ],
-      "questionCount": 20
+      "questionCount": 34
     },
     {
       "page": 453,
@@ -11463,7 +11463,7 @@
         "10.2.4.2",
         "10.2.4.2.1"
       ],
-      "questionCount": 21
+      "questionCount": 29
     },
     {
       "page": 454,
@@ -11476,7 +11476,7 @@
         "10.2.5.1.2",
         "10.2.5.1.3"
       ],
-      "questionCount": 21
+      "questionCount": 28
     },
     {
       "page": 455,
@@ -11485,7 +11485,7 @@
         "10.2.5.2",
         "10.2.5.2.1"
       ],
-      "questionCount": 23
+      "questionCount": 30
     },
     {
       "page": 456,
@@ -11496,7 +11496,7 @@
         "10.2.6",
         "10.2.6.1"
       ],
-      "questionCount": 29
+      "questionCount": 36
     },
     {
       "page": 457,
@@ -11504,7 +11504,7 @@
       "sections": [
         "10.2.6.2"
       ],
-      "questionCount": 9
+      "questionCount": 11
     },
     {
       "page": 458,
@@ -11525,7 +11525,7 @@
         "10.2.8.1.1",
         "10.2.8.1.2"
       ],
-      "questionCount": 25
+      "questionCount": 32
     },
     {
       "page": 460,
@@ -11534,7 +11534,7 @@
         "10.2.8.1.3",
         "10.2.8.1.4"
       ],
-      "questionCount": 4
+      "questionCount": 5
     },
     {
       "page": 461,
@@ -11550,25 +11550,25 @@
       "page": 462,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 18
+      "questionCount": 27
     },
     {
       "page": 463,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 22
+      "questionCount": 30
     },
     {
       "page": 464,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 20
+      "questionCount": 29
     },
     {
       "page": 465,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 3
+      "questionCount": 5
     },
     {
       "page": 466,
@@ -11582,19 +11582,19 @@
       "page": 467,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 19
+      "questionCount": 29
     },
     {
       "page": 468,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 23
+      "questionCount": 32
     },
     {
       "page": 469,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 21
+      "questionCount": 31
     },
     {
       "page": 470,
@@ -11615,7 +11615,7 @@
         "10.3.2.2.3",
         "10.3.2.2.4"
       ],
-      "questionCount": 35
+      "questionCount": 38
     },
     {
       "page": 472,
@@ -11627,7 +11627,7 @@
         "10.3.2.3.3",
         "10.3.2.3.4"
       ],
-      "questionCount": 30
+      "questionCount": 32
     },
     {
       "page": 473,
@@ -11635,7 +11635,7 @@
       "sections": [
         "10.3.2.4"
       ],
-      "questionCount": 14
+      "questionCount": 19
     },
     {
       "page": 474,
@@ -11677,7 +11677,7 @@
       "sections": [
         "10.3.3.3"
       ],
-      "questionCount": 7
+      "questionCount": 8
     },
     {
       "page": 479,
@@ -11687,7 +11687,7 @@
         "10.3.3.5",
         "10.3.3.5.1"
       ],
-      "questionCount": 27
+      "questionCount": 53
     },
     {
       "page": 480,
@@ -11701,7 +11701,7 @@
         "10.3.4.1.1",
         "10.3.4.1.2"
       ],
-      "questionCount": 20
+      "questionCount": 43
     },
     {
       "page": 481,
@@ -11711,7 +11711,7 @@
         "10.3.4.2",
         "10.3.4.2.1"
       ],
-      "questionCount": 21
+      "questionCount": 30
     },
     {
       "page": 482,
@@ -11724,7 +11724,7 @@
         "10.3.5.1.2",
         "10.3.5.1.3"
       ],
-      "questionCount": 22
+      "questionCount": 30
     },
     {
       "page": 483,
@@ -11734,7 +11734,7 @@
         "10.3.5.2.1",
         "10.3.5.2.2"
       ],
-      "questionCount": 32
+      "questionCount": 43
     },
     {
       "page": 484,
@@ -11744,7 +11744,7 @@
         "10.3.6.1",
         "10.3.6.2"
       ],
-      "questionCount": 21
+      "questionCount": 22
     },
     {
       "page": 485,
@@ -11765,7 +11765,7 @@
         "10.3.8.1.1",
         "10.3.8.1.2"
       ],
-      "questionCount": 24
+      "questionCount": 32
     },
     {
       "page": 487,
@@ -11800,7 +11800,7 @@
       "page": 491,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 6
+      "questionCount": 7
     },
     {
       "page": 492,
@@ -11810,7 +11810,7 @@
         "10.3.9.3",
         "10.3.9.4"
       ],
-      "questionCount": 29
+      "questionCount": 33
     },
     {
       "page": 493,
@@ -11820,13 +11820,13 @@
         "10.3.10.1",
         "10.3.10.2"
       ],
-      "questionCount": 27
+      "questionCount": 33
     },
     {
       "page": 494,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 5
+      "questionCount": 6
     },
     {
       "page": 495,
@@ -11844,7 +11844,7 @@
       "page": 497,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 3
+      "questionCount": 4
     },
     {
       "page": 498,
@@ -11854,19 +11854,19 @@
         "10.3.10.4",
         "10.3.10.5"
       ],
-      "questionCount": 10
+      "questionCount": 11
     },
     {
       "page": 499,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 29
+      "questionCount": 34
     },
     {
       "page": 500,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 7
+      "questionCount": 9
     },
     {
       "page": 501,
@@ -11882,19 +11882,19 @@
       "page": 502,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 18
+      "questionCount": 27
     },
     {
       "page": 503,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 21
+      "questionCount": 29
     },
     {
       "page": 504,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 15
+      "questionCount": 23
     },
     {
       "page": 505,
@@ -11908,31 +11908,31 @@
       "page": 506,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 17
+      "questionCount": 24
     },
     {
       "page": 507,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 19
+      "questionCount": 22
     },
     {
       "page": 508,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 19
+      "questionCount": 25
     },
     {
       "page": 509,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 21
+      "questionCount": 29
     },
     {
       "page": 510,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 3
+      "questionCount": 6
     },
     {
       "page": 511,
@@ -11946,25 +11946,25 @@
       "page": 512,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 18
+      "questionCount": 25
     },
     {
       "page": 513,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 21
+      "questionCount": 26
     },
     {
       "page": 514,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 22
+      "questionCount": 32
     },
     {
       "page": 515,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 10
+      "questionCount": 14
     },
     {
       "page": 516,
@@ -11976,7 +11976,7 @@
         "10.4.2.2.1",
         "10.4.2.2.2"
       ],
-      "questionCount": 8
+      "questionCount": 10
     },
     {
       "page": 517,
@@ -11985,7 +11985,7 @@
         "10.4.2.2.3",
         "10.4.2.2.4"
       ],
-      "questionCount": 22
+      "questionCount": 27
     },
     {
       "page": 518,
@@ -11996,7 +11996,7 @@
         "10.4.2.3.2",
         "10.4.2.3.3"
       ],
-      "questionCount": 12
+      "questionCount": 13
     },
     {
       "page": 519,
@@ -12004,13 +12004,13 @@
       "sections": [
         "10.4.2.3.4"
       ],
-      "questionCount": 26
+      "questionCount": 32
     },
     {
       "page": 520,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 10
+      "questionCount": 13
     },
     {
       "page": 521,
@@ -12019,7 +12019,7 @@
         "10.4.2.4",
         "10.4.2.5"
       ],
-      "questionCount": 8
+      "questionCount": 10
     },
     {
       "page": 522,
@@ -12030,7 +12030,7 @@
         "10.4.3.2",
         "10.4.3.3"
       ],
-      "questionCount": 13
+      "questionCount": 14
     },
     {
       "page": 523,
@@ -12040,7 +12040,7 @@
         "10.4.3.5",
         "10.4.3.5.1"
       ],
-      "questionCount": 12
+      "questionCount": 14
     },
     {
       "page": 524,
@@ -12051,7 +12051,7 @@
         "10.4.3.5.4",
         "10.4.3.6"
       ],
-      "questionCount": 29
+      "questionCount": 51
     },
     {
       "page": 525,
@@ -12064,7 +12064,7 @@
         "10.4.4.1.2",
         "10.4.4.1.3"
       ],
-      "questionCount": 18
+      "questionCount": 39
     },
     {
       "page": 526,
@@ -12073,7 +12073,7 @@
         "10.4.4.2",
         "10.4.4.2.1"
       ],
-      "questionCount": 19
+      "questionCount": 27
     },
     {
       "page": 527,
@@ -12086,7 +12086,7 @@
         "10.4.5.1.2",
         "10.4.5.1.3"
       ],
-      "questionCount": 19
+      "questionCount": 26
     },
     {
       "page": 528,
@@ -12096,7 +12096,7 @@
         "10.4.5.2.1",
         "10.4.5.2.2"
       ],
-      "questionCount": 24
+      "questionCount": 33
     },
     {
       "page": 529,
@@ -12106,7 +12106,7 @@
         "10.4.6",
         "10.4.6.1"
       ],
-      "questionCount": 25
+      "questionCount": 31
     },
     {
       "page": 530,
@@ -12142,7 +12142,7 @@
         "10.4.8.2",
         "10.4.8.2.1"
       ],
-      "questionCount": 12
+      "questionCount": 13
     },
     {
       "page": 534,
@@ -12154,7 +12154,7 @@
       "page": 535,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 3
+      "questionCount": 4
     },
     {
       "page": 536,
@@ -12170,7 +12170,7 @@
       "sections": [
         "10.4.8.2.3"
       ],
-      "questionCount": 5
+      "questionCount": 6
     },
     {
       "page": 538,
@@ -12187,13 +12187,13 @@
         "10.4.8.4",
         "10.4.8.5"
       ],
-      "questionCount": 29
+      "questionCount": 33
     },
     {
       "page": 540,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 29
+      "questionCount": 32
     },
     {
       "page": 541,
@@ -12205,7 +12205,7 @@
         "10.4.9.3",
         "10.4.9.3.1"
       ],
-      "questionCount": 19
+      "questionCount": 21
     },
     {
       "page": 542,
@@ -12225,7 +12225,7 @@
       "page": 544,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 3
+      "questionCount": 4
     },
     {
       "page": 545,
@@ -12243,19 +12243,19 @@
         "10.4.9.5",
         "10.4.9.6"
       ],
-      "questionCount": 13
+      "questionCount": 14
     },
     {
       "page": 547,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 29
+      "questionCount": 33
     },
     {
       "page": 548,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 20
+      "questionCount": 25
     },
     {
       "page": 549,
@@ -12285,7 +12285,7 @@
         "10.5.2.2.1",
         "10.5.2.2.2"
       ],
-      "questionCount": 7
+      "questionCount": 8
     },
     {
       "page": 552,
@@ -12293,7 +12293,7 @@
       "sections": [
         "10.5.2.3"
       ],
-      "questionCount": 31
+      "questionCount": 36
     },
     {
       "page": 553,
@@ -12301,7 +12301,7 @@
       "sections": [
         "10.5.2.3.1"
       ],
-      "questionCount": 7
+      "questionCount": 9
     },
     {
       "page": 554,
@@ -12311,7 +12311,7 @@
         "10.5.2.4.1",
         "10.5.2.4.2"
       ],
-      "questionCount": 27
+      "questionCount": 43
     },
     {
       "page": 555,
@@ -12323,7 +12323,7 @@
         "10.5.3.1.2",
         "10.5.3.1.3"
       ],
-      "questionCount": 22
+      "questionCount": 32
     },
     {
       "page": 556,
@@ -12338,7 +12338,7 @@
         "10.5.5.1",
         "10.5.5.1.1"
       ],
-      "questionCount": 22
+      "questionCount": 26
     },
     {
       "page": 557,
@@ -12414,7 +12414,7 @@
       "sections": [
         "11.5"
       ],
-      "questionCount": 5
+      "questionCount": 7
     },
     {
       "page": 568,
@@ -12438,7 +12438,7 @@
       "sections": [
         "11.6.3"
       ],
-      "questionCount": 27
+      "questionCount": 29
     },
     {
       "page": 571,
@@ -12560,13 +12560,13 @@
       "sections": [
         "11.14"
       ],
-      "questionCount": 23
+      "questionCount": 24
     },
     {
       "page": 588,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 3
+      "questionCount": 4
     },
     {
       "page": 589,
@@ -12634,7 +12634,7 @@
         "11.19.3",
         "11.19.4"
       ],
-      "questionCount": 25
+      "questionCount": 28
     },
     {
       "page": 598,
@@ -12648,13 +12648,13 @@
       "sections": [
         "11.19.5"
       ],
-      "questionCount": 1
+      "questionCount": 19
     },
     {
       "page": 600,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 1
+      "questionCount": 12
     },
     {
       "page": 601,
@@ -12662,7 +12662,7 @@
       "sections": [
         "11.19.6"
       ],
-      "questionCount": 2
+      "questionCount": 19
     },
     {
       "page": 602,
@@ -12670,7 +12670,7 @@
       "sections": [
         "11.19.7"
       ],
-      "questionCount": 2
+      "questionCount": 24
     },
     {
       "page": 603,
@@ -12679,7 +12679,7 @@
         "11.20",
         "11.20.1"
       ],
-      "questionCount": 28
+      "questionCount": 31
     },
     {
       "page": 604,
@@ -12687,7 +12687,7 @@
       "sections": [
         "11.20.2"
       ],
-      "questionCount": 24
+      "questionCount": 26
     },
     {
       "page": 605,
@@ -12695,13 +12695,13 @@
       "sections": [
         "11.20.3"
       ],
-      "questionCount": 24
+      "questionCount": 25
     },
     {
       "page": 606,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 21
+      "questionCount": 24
     },
     {
       "page": 607,
@@ -12711,7 +12711,7 @@
         "11.20.4.1",
         "11.20.4.2"
       ],
-      "questionCount": 20
+      "questionCount": 22
     },
     {
       "page": 608,
@@ -12719,7 +12719,7 @@
       "sections": [
         "11.20.4.3"
       ],
-      "questionCount": 22
+      "questionCount": 33
     },
     {
       "page": 609,
@@ -12728,7 +12728,7 @@
         "11.20.4.4",
         "11.20.4.5"
       ],
-      "questionCount": 29
+      "questionCount": 30
     },
     {
       "page": 610,
@@ -12736,7 +12736,7 @@
       "sections": [
         "11.20.4.6"
       ],
-      "questionCount": 26
+      "questionCount": 28
     },
     {
       "page": 611,
@@ -12747,7 +12747,7 @@
         "11.20.4.9",
         "11.20.4.10"
       ],
-      "questionCount": 25
+      "questionCount": 26
     },
     {
       "page": 612,
@@ -12756,7 +12756,7 @@
         "11.20.4.11",
         "11.20.4.12"
       ],
-      "questionCount": 21
+      "questionCount": 22
     },
     {
       "page": 613,
@@ -12764,7 +12764,7 @@
       "sections": [
         "11.20.4.13"
       ],
-      "questionCount": 11
+      "questionCount": 15
     },
     {
       "page": 614,
@@ -12800,7 +12800,7 @@
         "11.21.3",
         "11.21.4"
       ],
-      "questionCount": 15
+      "questionCount": 16
     },
     {
       "page": 618,
@@ -12808,7 +12808,7 @@
       "sections": [
         "11.21.5"
       ],
-      "questionCount": 20
+      "questionCount": 21
     },
     {
       "page": 619,
@@ -12816,7 +12816,7 @@
       "sections": [
         "11.22"
       ],
-      "questionCount": 10
+      "questionCount": 13
     },
     {
       "page": 620,
@@ -13024,7 +13024,7 @@
       "page": 648,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 24
+      "questionCount": 33
     },
     {
       "page": 649,
@@ -13058,7 +13058,7 @@
       "sections": [
         "A.13"
       ],
-      "questionCount": 1
+      "questionCount": 2
     },
     {
       "page": 654,
@@ -13124,19 +13124,19 @@
       "sections": [
         "C.1"
       ],
-      "questionCount": 27
+      "questionCount": 45
     },
     {
       "page": 664,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 60
+      "questionCount": 88
     },
     {
       "page": 665,
       "kind": "learning-content",
       "sections": [],
-      "questionCount": 48
+      "questionCount": 74
     },
     {
       "page": 666,
