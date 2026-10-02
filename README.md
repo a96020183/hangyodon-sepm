@@ -4,7 +4,9 @@
 
 直接使用：[Hangyodon 陪你飛](https://a96020183.github.io/hangyodon-sepm/)。
 
-目前 **6,580 題**，由原有 96 題擴充。已盤點 667 頁手冊、798 個編號目錄項目；**600/600 個最細目錄小節**及 **547/547 頁學習內容**均至少有一道附來源的題目，包括附錄 A、B、C。其餘頁面為 95 頁明示留白、23 頁目錄／修訂紀錄和 2 頁出版控制。
+目前 **6,837 題**，由原有 96 題擴充。已盤點 667 頁手冊、798 個編號目錄項目；**600/600 個最細目錄小節**及 **547/547 頁學習內容**均至少有一道附來源的題目，包括附錄 A、B、C。其餘頁面為 95 頁明示留白、23 頁目錄／修訂紀錄和 2 頁出版控制。
+
+今次新增 **257 題程序練習**，考條件／行動配對、操作原因、未考過的參數及 crew rest 火警分支；首頁可按「只練新增題」集中練習。
 
 覆蓋代表每個小節及內容頁均有題目，並不代表每一個事實、圖示標籤或 SOP 步驟均已被考核。完整程序、條件及例外仍須閱讀原手冊。首頁「全書覆蓋清單」列出各小節題數，亦可搜尋及練習指定小節。
 
@@ -12,16 +14,16 @@
 
 - 0 Administration & Control of Operations Manual: **204 questions**
 - 1 Introduction: **179 questions**
-- 2 Human Factors and Emergencies: **107 questions**
-- 3 Communication: **74 questions**
-- 4 Safety and Emergency Equipment: **1151 questions**
-- 5 Normal Procedures / Supplementary Procedures: **477 questions**
-- 6 Non Normal Procedures: **650 questions**
-- 7 Post Evacuation and Survival: **237 questions**
-- 8 Dangerous Goods: **187 questions**
-- 9 First Aid/Illnesses/Injuries: **969 questions**
-- 10 Aircraft Specific: **1934 questions**
-- 11 Security: **411 questions**
+- 2 Human Factors and Emergencies: **112 questions**
+- 3 Communication: **77 questions**
+- 4 Safety and Emergency Equipment: **1211 questions**
+- 5 Normal Procedures / Supplementary Procedures: **510 questions**
+- 6 Non Normal Procedures: **676 questions**
+- 7 Post Evacuation and Survival: **253 questions**
+- 8 Dangerous Goods: **193 questions**
+- 9 First Aid/Illnesses/Injuries: **1024 questions**
+- 10 Aircraft Specific: **1966 questions**
+- 11 Security: **432 questions**
 
 附錄 A briefing 題按內容分入相關主章節；附錄 B 設備數量表歸第 4 章；附錄 C 培訓要求歸第 1 章。引用仍保留 A／B／C 編號。
 
