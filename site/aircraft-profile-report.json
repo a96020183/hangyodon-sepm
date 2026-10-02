@@ -1,0 +1,39 @@
+{
+  "default": "777",
+  "counts": {
+    "747F": 7495,
+    "777": 8184,
+    "A321neo": 8051,
+    "A330": 7773,
+    "A350": 8011
+  },
+  "configurations": {
+    "773P": 7712,
+    "773A/K": 7984,
+    "773J": 7993
+  },
+  "policy": "Study selection follows explicit aircraft headings, original aircraft table columns and question/source markers. Shared procedures remain included. Conditions and tail-number exceptions stay in the original question and reference; this filter is not an operational applicability determination.",
+  "totalQuestions": 11117,
+  "classifications": {
+    "General source without an aircraft-only marker": 6913,
+    "Aircraft explicitly named in quoted source": 88,
+    "Nearest numbered aircraft heading": 3183,
+    "Aircraft named in question scope or original-context stem": 72,
+    "Native aircraft subheading": 805,
+    "Aircraft column in original equipment table": 56
+  },
+  "chapterCounts777": {
+    "chapter-0": 212,
+    "chapter-1": 270,
+    "chapter-2": 142,
+    "chapter-3": 119,
+    "chapter-4": 1780,
+    "chapter-5": 760,
+    "chapter-6": 943,
+    "chapter-7": 385,
+    "chapter-8": 453,
+    "chapter-9": 1545,
+    "chapter-10": 889,
+    "chapter-11": 686
+  }
+}
