@@ -1,46 +1,44 @@
 # Hangyodon SEPM Study Flight
 
-畀 Blue 嘅 Hangyodon 陪讀小遊戲：按 SEPM 原本 0–11 主章節選 topic，做英文 MCQ、儲 XP、重溫錯題同收集徽章。手機同電腦瀏覽器都可以用。
+畀 Blue 嘅 Hangyodon 陪讀小遊戲：按 SEPM 原本第 0–11 主章節選 topic，做英文 MCQ、儲 XP、重溫錯題同收集徽章。手機同電腦瀏覽器都可以用。
 
-Repository：[a96020183/hangyodon-sepm](https://github.com/a96020183/hangyodon-sepm)。網站部署後可於 [GitHub Pages](https://a96020183.github.io/hangyodon-sepm/) 使用。
+直接使用：[Hangyodon 陪你飛](https://a96020183.github.io/hangyodon-sepm/)。
 
-目前有 96 題入門題，未覆蓋手冊全部小節。題幹為根據手冊編寫；每題正確選項逐字取自引用頁面（空白已正規化），答題後顯示英文原文摘錄、章節、手冊頁碼及 PDF 頁碼。廣東話輔助提示按需要展開。來源版本為 FOP_SEPM_20260824.pdf，24 Aug 2026。
+目前 **6,580 題**，由原有 96 題擴充。已盤點 667 頁手冊、798 個編號目錄項目；**600/600 個最細目錄小節**及 **547/547 頁學習內容**均至少有一道附來源的題目，包括附錄 A、B、C。其餘頁面為 95 頁明示留白、23 頁目錄／修訂紀錄和 2 頁出版控制。
 
-## 發佈到 GitHub Pages
+覆蓋代表每個小節及內容頁均有題目，並不代表每一個事實、圖示標籤或 SOP 步驟均已被考核。完整程序、條件及例外仍須閱讀原手冊。首頁「全書覆蓋清單」列出各小節題數，亦可搜尋及練習指定小節。
 
-1. 將本目錄放入你選定的 GitHub repository，使用 `main` 分支。
-2. 在 repository 的 **Settings → Pages → Build and deployment → Source** 選 **GitHub Actions**。
-3. 推送 `main`，或在 **Actions → Publish study website → Run workflow** 執行部署。
-4. 部署成功後，在 **Settings → Pages** 或該次 deployment 取得實際網址，再發給朋友。
+## 每章題數
 
-部署 workflow 只發佈 `site/`。不需要 npm 安裝、API key 或後端。
+- 0 Administration & Control of Operations Manual: **204 questions**
+- 1 Introduction: **179 questions**
+- 2 Human Factors and Emergencies: **107 questions**
+- 3 Communication: **74 questions**
+- 4 Safety and Emergency Equipment: **1151 questions**
+- 5 Normal Procedures / Supplementary Procedures: **477 questions**
+- 6 Non Normal Procedures: **650 questions**
+- 7 Post Evacuation and Survival: **237 questions**
+- 8 Dangerous Goods: **187 questions**
+- 9 First Aid/Illnesses/Injuries: **969 questions**
+- 10 Aircraft Specific: **1934 questions**
+- 11 Security: **411 questions**
 
-首次推送可以在本目錄使用 PowerShell：
+附錄 A briefing 題按內容分入相關主章節；附錄 B 設備數量表歸第 4 章；附錄 C 培訓要求歸第 1 章。引用仍保留 A／B／C 編號。
 
-```powershell
-git init -b main
-git add .gitignore README.md .github site
-git commit -m "Add Hangyodon SEPM study website"
-git remote add origin https://github.com/a96020183/hangyodon-sepm.git
-git push -u origin main
-```
+## 題目及來源
 
-部署狀態及實際網址請查看 repository 的 Actions 與 Settings → Pages。
+題幹、選項和原文引用使用 PDF 英文；介面及預設收起的輔助提示使用廣東話。題型包括情境／知識題、原文填詞、原生 briefing 完整答案、設備數量及培訓矩陣。
 
-GitHub 官方部署說明：[GitHub Pages custom workflows](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)。
+每題正確選項均有原文依據。文字題核對完整原句；表格題按原頁 cell 座標及勾選欄位核對；掃描表格／圖示題人工對照原圖，並保留來源裁圖。答題後顯示来源類型、英文證據、章節及 PDF 頁碼。來源版本為 FOP_SEPM_20260824.pdf，24 Aug 2026，Rev. 11。[覆蓋報告](site/coverage-report.json)可查看逐節及逐頁盤點。
 
-## 原文 PDF 對照
+按 **Open your local manual** 可選取自己裝置上的 PDF，网站核對 SHA-256 與題庫來源一致後開啟引用頁面，檔案不會上傳。重新整理後需重新選取；部分手機可能忽略指定頁碼，可手動輸入畫面列出的 PDF 頁碼。
 
-題目及英文引用摘錄已包含在網站。按 **Open your local manual** 可選取自己裝置上的 PDF，網站核對 SHA-256 與題庫來源一致後，開啟所引用頁面；選取的檔案不會上傳。換頁或完成題目後仍可使用已選取的手冊；重新整理網站後需重新選取。部分手機瀏覽器會下載 PDF 或忽略指定頁碼，可依畫面列出的 PDF 頁碼跳轉。
+完整 PDF 留在本機，網站包含題目、引用摘錄及部分原頁裁圖。
 
-完整 PDF 留在本機，部署包不包含原本 667 頁手冊。題目及所引用摘錄會隨網站發佈。
+## 溫習紀錄與部署
 
-## 溫習紀錄
+XP、錯題及徽章存於目前瀏覽器 localStorage；不同裝置各自保存。每題每日首次答對獲得 10 XP，以香港日期計算；錯題連續答對兩次才移出收藏。原有 96 題 ID 與手冊指紋保持不變，既有進度保留。
 
-XP、錯題及徽章存於目前瀏覽器的 localStorage。不同手機、電腦或瀏覽器各自保存紀錄；清除瀏覽器資料會清除紀錄。每題每日首次答對獲得 10 XP，日期按香港時間計算；錯題需連續答對兩次才移出收藏。
+GitHub Actions 在推送 main 後部署 site/。網站無 API key 或後端；Hangyodon 圖嵌入 HTML，來源裁圖在 assets/references/ 按需載入。修改靜態網站後推送即可部署。
 
-## 更新網站
-
-本 repository 包含可直接發佈的靜態網站，圖片及題庫均嵌入 `site/index.html`。本機製作目錄中的 `build_app.py` 與 `build_web.py` 負責依指定版本手冊重新生成。更新題庫後重新生成，推送新的 `site/index.html` 即可重新部署。
-
-Hangyodon 角色屬 Sanrio；本網站為個人非官方溫習作品。XP、徽章及遊戲進度只表示練習紀錄，不是操作資格或官方考核結果。
+Hangyodon 角色屬 Sanrio；本網站為個人非官方溫習作品。XP 及徽章是練習紀錄，不是操作資格或官方考核結果。
